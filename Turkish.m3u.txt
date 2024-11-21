@@ -414,1809 +414,640 @@ http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8#EXTM3U
 # EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="SPORTS", Bein Sport Premium 3 HD
 # 720p
 # http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86610
-#EXTM3U x-tvg-url=""
-#EXTINF:53 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/zoomoo" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 #EXTM3U
-#EXTINF:-1,TUR:A SPORT
-http://topchantv.net:3456/live/topchan_TV/911tv_info/856.ts
-#EXTINF:-1,TUR:BEIN SPORTS 1HD
-http://topchantv.net:3456/live/topchan_TV/911tv_info/824.ts
-#EXTINF:-1,TUR:BEIN SPORTS 2HD
-http://topchantv.net:3456/live/topchan_TV/911tv_info/823.ts
-#EXTINF:-1,TUR:BEIN SPORTS 3HD
-http://topchantv.net:3456/live/topchan_TV/911tv_info/822.ts
-#EXTINF:-1,TUR:DISNEY CHANNEL
-http://topchantv.net:3456/live/topchan_TV/911tv_info/806.ts
-#EXTINF:-1,TUR:LIG TV1 krhz1 - LIG TV1-BB
-http://topchantv.net:3456/live/topchan_TV/911tv_info/800.ts
-#EXTINF:-1,TUR:LIG TV1- LIG TV2_BB
-http://topchantv.net:3456/live/topchan_TV/911tv_info/801.ts
-#EXTINF:-1,TUR:S SPORT
-http://topchantv.net:3456/live/topchan_TV/911tv_info/805.ts
-#EXTINF:-1,TUR:SINEMA Action
-http://topchantv.net:3456/live/topchan_TV/911tv_info/807.ts
-#EXTINF:-1,TUR:TIVIBU SPOR 2 HD
-http://topchantv.net:3456/live/topchan_TV/911tv_info/796.ts
-#EXTINF:-1,TUR:Tivibu Sport 1 FHD
-http://topchantv.net:3456/live/topchan_TV/911tv_info/1726.ts
-#EXTINF:-1,TUR:Tivibu Sport 2 FHD
-http://topchantv.net:3456/live/topchan_TV/911tv_info/1727.ts
-
-#EXTINF:-1,OteSport 1
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/45.ts
-#EXTINF:-1,OteSport 2
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/46.ts
-#EXTINF:-1,OteSport 3
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/47.ts
-#EXTINF:-1,OteSport 4
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/48.ts
-#EXTINF:-1,OteSport 5
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/49.ts
-#EXTINF:-1,Ote Sport 6
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/312.ts
-#EXTINF:-1,OteSport 7
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/993.ts
-#EXTINF:-1,OteSport 8
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/994.ts
-#EXTINF:-1,Ote Highlights
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/535.ts
-#EXTINF:-1,EdgeSports
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4964.ts
-#EXTINF:-1,NauticalChannel
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5009.ts
-#EXTINF:-1,motorvision
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/459.ts
-#EXTINF:-1,NovaSport1
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/50.ts
-#EXTINF:-1,nvsp1-vip
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4991.ts
-#EXTINF:-1,NovaSports 2
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/51.ts
-#EXTINF:-1,nvsp2-vip
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4990.ts
-#EXTINF:-1,NovaSports 3
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/52.ts
-#EXTINF:-1,nvsp3-vip
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4989.ts
-#EXTINF:-1,NovaSports 4
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/53.ts
-#EXTINF:-1,nvsp4-vip
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4988.ts
-#EXTINF:-1,nova sport 5 hd
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2604.ts
-#EXTINF:-1,nvsp5-vip
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4987.ts
-#EXTINF:-1,NovaSports 24
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/54.ts
-#EXTINF:-1,nova stories
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5264.ts
-#EXTINF:-1,nova sports extra 1
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5265.ts
-#EXTINF:-1,eurosport1
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1585.ts
-#EXTINF:-1,eurosport2
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1599.ts
-#EXTINF:-1,super tennis
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1965.ts
-#EXTINF:-1,Sky Sport 1 uk
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/501.ts
-#EXTINF:-1,sky sport 2 uk
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/502.ts
-#EXTINF:-1,sky sport 3 uk
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/503.ts
-#EXTINF:-1,sky sport 4 uk
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/504.ts
-#EXTINF:-1,sky sport 5 uk
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/505.ts
-#EXTINF:-1,BT Sport 1
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/527.ts
-#EXTINF:-1,BT Sport 2
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/528.ts
-#EXTINF:-1,supersport 1
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/107.ts
-#EXTINF:-1,supersport 2
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/108.ts
-#EXTINF:-1,supersport3
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/109.ts
-#EXTINF:-1,supersport4
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/110.ts
-#EXTINF:-1,arena 1
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/81.ts
-#EXTINF:-1,arena2
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/82.ts
-#EXTINF:-1,arena3
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/83.ts
-#EXTINF:-1,arena4
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/84.ts
-#EXTINF:-1,SKY SPORT 1 HD / SKY DE
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2982.ts
-#EXTINF:-1,SKY SPORT 2 HD / SKY DE
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2981.ts
-#EXTINF:-1,Sky Sport 3 HD / SKY DE
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2980.ts
-#EXTINF:-1,Sky Sport Bundesliga 1 HD / SKY DE
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2979.ts
-#EXTINF:-1,Sky Sport Bundesliga 2 HD / SKY DE
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2994.ts
-#EXTINF:-1,Eurosport 1 HD / SKY DE
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2976.ts
-#EXTINF:-1,Eurosport 2 HD / SKY DE
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2975.ts
-#EXTINF:-1,Eurosport 2 HD Xtra / SKY DE
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4881.ts
-#EXTINF:-1,Motorvision TV / SKY DE
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2974.ts
-#EXTINF:-1,Sport1  HD / SKY DE
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2978.ts
-#EXTINF:-1,Sport1 US HD / SKY DE
-http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2977.ts
-
-#EXTINF:-1,### TR SPORT ###
-http://vip.iptv35.com:1958/live/914921redline/129419redline/160.ts
-#EXTINF:-1,TR | DSMART  SPOR SMART
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10183.ts
-#EXTINF:-1,TR | DSMART  NBA TV
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10184.ts
-#EXTINF:-1,TR | DSMART  T.A.Y TV
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10180.ts
-#EXTINF:-1,TR | EUROSPORT 1 HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/136.ts
-#EXTINF:-1,TR | EUROSPORT 2 HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/135.ts
-#EXTINF:-1,TR | DSMART  EUROSPORT 1
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10182.ts
-#EXTINF:-1,TR | DSMART  EUROSPORT 2
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10181.ts
-#EXTINF:-1,TR | DSMART  FOX SPORTS HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10179.ts
-#EXTINF:-1,TR | FB TV HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/130.ts
-#EXTINF:-1,TR | BJK TV HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/131.ts
-#EXTINF:-1,TR | GS TV HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/132.ts
-#EXTINF:-1,TR | NTVSPOR HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/127.ts
-#EXTINF:-1,TR | NTVSPOR SD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/126.ts
-#EXTINF:-1,TR | ASPOR HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/125.ts
-#EXTINF:-1,TR | ASPOR SD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/88.ts
-#EXTINF:-1,TR | SPORTS TV
-http://vip.iptv35.com:1958/live/914921redline/129419redline/5581.ts
-#EXTINF:-1,TR | TRTSPOR HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/129.ts
-#EXTINF:-1,TR | TRTSPOR SD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/128.ts
-#EXTINF:-1,TR | SMARTSPOR HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10753.ts
-#EXTINF:-1,TR | SMARTSPOR  UHD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10754.ts
-#EXTINF:-1,TR | SARANSPORT HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10751.ts
-#EXTINF:-1,TR | TIVIBU SPOR 1
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10765.ts
-#EXTINF:-1,TR | TIVIBU SPOR 1 HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10766.ts
-#EXTINF:-1,TR | TIVIBU SPOR 2
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10762.ts
-#EXTINF:-1,TR | TIVIBU SPOR  2 HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10763.ts
-#EXTINF:-1,TR | TIVIBU SPOR 3
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10759.ts
-#EXTINF:-1,TR | TIVIBU SPOR 3 HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10760.ts
-#EXTINF:-1,TR | TIVIBU 4
-http://vip.iptv35.com:1958/live/914921redline/129419redline/4435.ts
-#EXTINF:-1,TR | TIVIBU SPOR 4
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10756.ts
-#EXTINF:-1,TR | TIVIBU SPOR 4 HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10757.ts
-#EXTINF:-1,TR | TAY TV HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10755.ts
-#EXTINF:-1,TR | FIGHTBOX  HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/10747.ts
-#EXTINF:-1,### VIP AR BEINSPORT ###
-http://vip.iptv35.com:1958/live/914921redline/129419redline/2181.ts
-#EXTINF:-1,WK: BBC 1 HD UK
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18088.ts
-#EXTINF:-1,WK: BEIN SPORT MAX 1 WC
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18095.ts
-#EXTINF:-1,WK: BEIN SPORT MAX 2 WC
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18094.ts
-#EXTINF:-1,WK: BEIN SPORT MAX 3 WC
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18093.ts
-#EXTINF:-1,WK: BEIN SPORT MAX 4 WC
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18092.ts
-#EXTINF:-1,WK: BEIN SPORTS 1 HD FR
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18090.ts
-#EXTINF:-1,WK: BHT 1 HD EXYU
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18077.ts
-#EXTINF:-1,WK: BNT HD BULG
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18078.ts
-#EXTINF:-1,WK: CANALE 5 HD ITA
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18081.ts
-#EXTINF:-1,WK: DAS ERSTE HD
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18086.ts
-#EXTINF:-1,WK: EEN HD BE
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18097.ts
-#EXTINF:-1,WK: FOX SPORTS 1 HD NL
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18098.ts
-#EXTINF:-1,WK: ORF 1 HD AUST
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18084.ts
-#EXTINF:-1,WK: SPORT TV 1 HD PORT
-http://vip.iptv35.com:1958/live/914921redline/129419redline/18079.ts
-#EXTINF:-1,Tring Sport News HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/1004.ts
-#EXTINF:-1,Tring Sport 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/1003.ts
-#EXTINF:-1,Tring Sport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/1002.ts
-#EXTINF:-1,Tring Sport 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/1001.ts
-#EXTINF:-1,Tring Sport 4 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/1000.ts
-#EXTINF:-1,Super Sport 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/999.ts
-#EXTINF:-1,Super Sport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/998.ts
-#EXTINF:-1,Super Sport 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/997.ts
-#EXTINF:-1,Super Sport 4 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/996.ts
-#EXTINF:-1,Super Sport Kosova 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/994.ts
-#EXTINF:-1,Super Sport Kosova 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/993.ts
-#EXTINF:-1,Super Sport Kosova 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8576.ts
-#EXTINF:-1,ALB: K Sport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8128.ts
-#EXTINF:-1,ALB: K Sport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8127.ts
-#EXTINF:-1,ALB: K Sport 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8126.ts
-#EXTINF:-1,ALB: K Sport 4
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8182.ts
-#EXTINF:-1,Sky Sport 1 UK
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/356.ts
-#EXTINF:-1,Sky Sport 2 UK
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/357.ts
-#EXTINF:-1,Sky Sport 3 UK
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/358.ts
-#EXTINF:-1,Sky Sport 4 UK
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/359.ts
-#EXTINF:-1,Sky Sport 5 UK
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/360.ts
-#EXTINF:-1,Sky Sport F1 UK
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/355.ts
-#EXTINF:-1,SKY Sport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/262.ts
-#EXTINF:-1,SKY Sport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/263.ts
-#EXTINF:-1,Arena Sport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/250.ts
-#EXTINF:-1,Arena Sport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/251.ts
-#EXTINF:-1,Arena Sport 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/252.ts
-#EXTINF:-1,Arena Sport 4
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/253.ts
-#EXTINF:-1,Arena Sport 5
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/249.ts
-#EXTINF:-1,Arena 1 HR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/257.ts
-#EXTINF:-1,Arena 2 HR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/256.ts
-#EXTINF:-1,Arena 3 HR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/255.ts
-#EXTINF:-1,Arena 4 HR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/254.ts
-#EXTINF:-1,Sport Klub 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/232.ts
-#EXTINF:-1,Sport Klub 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/231.ts
-#EXTINF:-1,Sport Klub 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/230.ts
-#EXTINF:-1,DE: BUNDESLIGA 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7693.ts
-#EXTINF:-1,DE: BUNDESLIGA 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7576.ts
-#EXTINF:-1,DE: Eurosport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7652.ts
-#EXTINF:-1,DE: Eurosport 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7678.ts
-#EXTINF:-1,DE: Eurosport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7553.ts
-#EXTINF:-1,DE: Eurosport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7552.ts
-#EXTINF:-1,DE: Eurosport 2 XTRA HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5935.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7609.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7560.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7639.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7561.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD  ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7562.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7563.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7564.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7565.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7566.ts
-#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7567.ts
-#EXTINF:-1,DE: SKY SPORT 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7592.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7611.ts
-#EXTINF:-1,DE: Sky Sport 1 US HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7536.ts
-#EXTINF:-1,DE: Sky Sport 10 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7568.ts
-#EXTINF:-1,DE: SKY SPORT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7593.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7610.ts
-#EXTINF:-1,DE: Sky Sport 3 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7575.ts
-#EXTINF:-1,DE: Sky Sport 4 HD ( MATCH TIME )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7569.ts
-#EXTINF:-1,DE: Sky Sport 5 HD  ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7570.ts
-#EXTINF:-1,DE: Sky Sport 6 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7571.ts
-#EXTINF:-1,DE: Sky Sport 7 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7572.ts
-#EXTINF:-1,DE: Sky Sport 8 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7573.ts
-#EXTINF:-1,DE: Sky Sport 9 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7574.ts
-#EXTINF:-1,DE: SKY Sport Austria HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7688.ts
-#EXTINF:-1,DE: Sky Sport News
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7642.ts
-#EXTINF:-1,DE: SKY Sport News HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7535.ts
-#EXTINF:-1,DE: Sky Sports 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7643.ts
-#EXTINF:-1,DE: Sport 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7691.ts
-#EXTINF:-1,DE: Sport 1 US HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7709.ts
-#EXTINF:-1,DE: SPORT1   HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7699.ts
-#EXTINF:-1,DE: SPORTDIGITAL HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7608.ts
-#EXTINF:-1,Motors TV
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/1022.ts
-#EXTINF:-1,Fox Sports 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/248.ts
-#EXTINF:-1,Fox Sports 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/247.ts
-#EXTINF:-1,Fox Sports 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/246.ts
-#EXTINF:-1,Fox Sports 4 Eredivisie
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/245.ts
-#EXTINF:-1,Fox Sports 5 Eredivisie
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/244.ts
-#EXTINF:-1,Fox Sport 6
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/243.ts
-#EXTINF:-1,EuroSport 1 HD FR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/991.ts
-#EXTINF:-1,UK: BT Sport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7986.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7980.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8090.ts
-#EXTINF:-1,UK: BT Sport 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7979.ts
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7978.ts
-#EXTINF:-1,UK: BT Sport Extra 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8091.ts
-#EXTINF:-1,UK: BT Sports 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7987.ts
-#EXTINF:-1,UK: EIR SPORT 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7966.ts
-#EXTINF:-1,UK: EIR SPORT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7965.ts
-#EXTINF:-1,UK: Eurosport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8056.ts
-#EXTINF:-1,UK: Eurosport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7967.ts
-#EXTINF:-1,UK: Premier Sports
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8002.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8035.ts
-#EXTINF:-1,UK: SKY SPORTS 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8031.ts
-#EXTINF:-1,UK: SKY SPORTS 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8026.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8036.ts
-#EXTINF:-1,UK: SKY SPORTS 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8032.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8037.ts
-#EXTINF:-1,UK: SKY SPORTS 4
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8033.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8038.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8076.ts
-#EXTINF:-1,UK: Sky Sports Box Office
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7963.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8077.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8039.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8078.ts
-#EXTINF:-1,UK: Sky Sports News HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/8013.ts
-#EXTINF:-1,USA: Bein Sports HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7900.ts
-#EXTINF:-1,USA: Bein Sports USA:A HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7912.ts
-#EXTINF:-1,USA: CBS Sports Network HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7892.ts
-#EXTINF:-1,USA: FOX Sport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7931.ts
-#EXTINF:-1,USA: FOX Sport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7932.ts
-#EXTINF:-1,USA: Fox Sports 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7879.ts
-#EXTINF:-1,USA: Fox Sports 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7905.ts
-#EXTINF:-1,USA: Fox Sports 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7878.ts
-#EXTINF:-1,USA: Fox Sports West
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7877.ts
-#EXTINF:-1,USA: NBC Sports Network HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7864.ts
-#EXTINF:-1,USA: Sports Net 360 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7854.ts
-#EXTINF:-1,USA: Sports Net One HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7853.ts
-#EXTINF:-1,USA: Sports Net Ontario HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7852.ts
-#EXTINF:-1,USA: Sports Net Pacific HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7851.ts
-#EXTINF:-1,USA: Sports Net West HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7850.ts
-#EXTINF:-1,USA: Sports Net World HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7849.ts
-#EXTINF:-1,USA: Sportsnet One HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7954.ts
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7747.ts
-#EXTINF:-1,FR: Bein Sports 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7797.ts
-#EXTINF:-1,FR: BEIN SPORTS 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7746.ts
-#EXTINF:-1,FR: Bein Sports MAX 4
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7798.ts
-#EXTINF:-1,FR: Bein Sports MAX 5
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7799.ts
-#EXTINF:-1,FR: Bein Sports MAX 6
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7800.ts
-#EXTINF:-1,FR: Bein Sports MAX 7
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7801.ts
-#EXTINF:-1,FR: Bein Sports MAX 8
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7802.ts
-#EXTINF:-1,FR: Canal  Sport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7821.ts
-#EXTINF:-1,FR: CANAL  SPORT HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7742.ts
-#EXTINF:-1,FR: Eurosport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7774.ts
-#EXTINF:-1,FR: Eurosport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7725.ts
-#EXTINF:-1,FR: Infosport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7778.ts
-#EXTINF:-1,FR: SFR SPORT 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7838.ts
-#EXTINF:-1,FR: SFR SPORT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7837.ts
-#EXTINF:-1,IT: Eurosport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7492.ts
-#EXTINF:-1,IT: Eurosport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7491.ts
-#EXTINF:-1,IT: Premium Sport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7452.ts
-#EXTINF:-1,IT: Premium Sport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7451.ts
-#EXTINF:-1,IT: Premium Sport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7450.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7449.ts
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7414.ts
-#EXTINF:-1,IT: Rai Sport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7413.ts
-#EXTINF:-1,IT: Sky FOX Sport HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7384.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7382.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7381.ts
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7380.ts
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7379.ts
-#EXTINF:-1,IT: Sky Sport24 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7378.ts
-#EXTINF:-1,IT: SportItalia
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7375.ts
-#EXTINF:-1,TR: A SPOR HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6882.ts
-#EXTINF:-1,TR: A SPORT
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7097.ts
-#EXTINF:-1,TR: Bein Sports 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6908.ts
-#EXTINF:-1,TR: BEIN SPORTS 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6893.ts
-#EXTINF:-1,TR: Bein Sports 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6912.ts
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7099.ts
-#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7074.ts
-#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7073.ts
-#EXTINF:-1,TR: BURSASPOR TV
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7068.ts
-#EXTINF:-1,TR: EUROSPORT 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6914.ts
-#EXTINF:-1,TR: EUROSPORT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7050.ts
-#EXTINF:-1,TR: NTV SPOR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6996.ts
-#EXTINF:-1,TR: NTV SPOR HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6901.ts
-#EXTINF:-1,TR: Seran Sport HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6967.ts
-#EXTINF:-1,TR: SMART SPOR HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6919.ts
-#EXTINF:-1,TR: SPORTS TV
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6955.ts
-#EXTINF:-1,TR: TIVIBU SPOR 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6895.ts
-#EXTINF:-1,TR: TIVIBU SPOR 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6894.ts
-#EXTINF:-1,TR: TIVIBU SPOR 4
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6922.ts
-#EXTINF:-1,TR: Tivibu Sport 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6949.ts
-#EXTINF:-1,TR: TRT SPOR HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6905.ts
-#EXTINF:-1,EX YU: ARENA SPORT 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7339.ts
-#EXTINF:-1,EX YU: ARENA SPORT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7338.ts
-#EXTINF:-1,EX YU: Arena Sport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7337.ts
-#EXTINF:-1,EX YU: ARENA SPORT 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7335.ts
-#EXTINF:-1,EX YU: Arena Sport 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7336.ts
-#EXTINF:-1,EX YU: Arena Sport 4 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7334.ts
-#EXTINF:-1,EX YU: ARENA Sport 5 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7333.ts
-#EXTINF:-1,EX YU: EUROSPORT 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7289.ts
-#EXTINF:-1,EX YU: SPORT KLUB 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7329.ts
-#EXTINF:-1,EX YU: Sport Klub 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7330.ts
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7328.ts
-#EXTINF:-1,EX YU: SPORT KLUB 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7331.ts
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7327.ts
-#EXTINF:-1,EX YU: SPORT KLUB 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7332.ts
-#EXTINF:-1,AR: BEIN SPORTS 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6870.ts
-#EXTINF:-1,AR: BEIN SPORTS 10 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6861.ts
-#EXTINF:-1,AR: Bein Sports 11 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6871.ts
-#EXTINF:-1,AR: Bein Sports 12 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6872.ts
-#EXTINF:-1,AR: BEIN SPORTS 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6869.ts
-#EXTINF:-1,AR: BEIN SPORTS 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6868.ts
-#EXTINF:-1,AR: BEIN SPORTS 4 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6867.ts
-#EXTINF:-1,AR: BEIN SPORTS 5 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6866.ts
-#EXTINF:-1,AR: BEIN SPORTS 6 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6865.ts
-#EXTINF:-1,AR: BEIN SPORTS 7 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6864.ts
-#EXTINF:-1,AR: BEIN SPORTS 8 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6863.ts
-#EXTINF:-1,AR: BEIN SPORTS 9 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6862.ts
-#EXTINF:-1,AR: dmc Sports
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6782.ts
-#EXTINF:-1,AR: Modern Sport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6714.ts
-#EXTINF:-1,AR: Sudan Sport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6662.ts
-#EXTINF:-1,BG: AUTO MOTO SPORT HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6406.ts
-#EXTINF:-1,BG: DIEMA SPORT 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6384.ts
-#EXTINF:-1,BG: DIEMA SPORT 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6383.ts
-#EXTINF:-1,BG: NOVA SPORT
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6363.ts
-#EXTINF:-1,BG: NOVA SPORT HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6362.ts
-#EXTINF:-1,BG: SPORT PLUS
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6351.ts
-#EXTINF:-1,BG: SPORTAL BG
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6350.ts
-#EXTINF:-1,DK: Eurosport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5931.ts
-#EXTINF:-1,DK: Eurosport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5930.ts
-#EXTINF:-1,DK: TV 2 Sport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5948.ts
-#EXTINF:-1,DK: TV 4 Sport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5947.ts
-#EXTINF:-1,DK: TV3 Sport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5939.ts
-#EXTINF:-1,DK: TV3 Sport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5938.ts
-#EXTINF:-1,NL: Edge Sport HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7127.ts
-#EXTINF:-1,NL: Eurosport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7166.ts
-#EXTINF:-1,NL: Eurosport 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7126.ts
-#EXTINF:-1,NL: Eurosport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7165.ts
-#EXTINF:-1,NL: Eurosport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7125.ts
-#EXTINF:-1,NL: Extreme Sports
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7164.ts
-#EXTINF:-1,NL: Fox Sports 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7195.ts
-#EXTINF:-1,NL: Fox Sports 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7122.ts
-#EXTINF:-1,NL: Fox Sports 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7196.ts
-#EXTINF:-1,NL: Fox Sports 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7121.ts
-#EXTINF:-1,NL: Fox Sports 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7197.ts
-#EXTINF:-1,NL: Fox Sports 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7120.ts
-#EXTINF:-1,NL: Fox Sports 4
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7198.ts
-#EXTINF:-1,NL: Fox Sports 4 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7119.ts
-#EXTINF:-1,NL: Fox Sports 5
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7199.ts
-#EXTINF:-1,NL: Fox Sports 5 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7118.ts
-#EXTINF:-1,NL: Fox Sports 6
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7200.ts
-#EXTINF:-1,NL: Fox Sports 6 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7117.ts
-#EXTINF:-1,NL: NPO Politiek/Sport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7147.ts
-#EXTINF:-1,NL: Sport 1 Golf
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7210.ts
-#EXTINF:-1,NL: Sport 1 Select
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7226.ts
-#EXTINF:-1,NL: Ziggo Sport 1 Golf
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7132.ts
-#EXTINF:-1,NL: Ziggo Sport 1 Voetbal HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7103.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7213.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7214.ts
-#EXTINF:-1,NL: Ziggo Sport Golf
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7131.ts
-#EXTINF:-1,NL: Ziggo Sport Racing
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7188.ts
-#EXTINF:-1,NL: ZIGGO SPORT SELECT
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7130.ts
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7102.ts
-#EXTINF:-1,NL: Ziggo Sport Voetbal HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7101.ts
-#EXTINF:-1,NO: C MORE SPORT HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5909.ts
-#EXTINF:-1,NO: Tv2 Sport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5894.ts
-#EXTINF:-1,NO: Viasat Sport Premium
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5889.ts
-#EXTINF:-1,PL: CANAL  SPORT 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6580.ts
-#EXTINF:-1,PL: CANAL  SPORT HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6527.ts
-#EXTINF:-1,PL: Eleven Sports HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6567.ts
-#EXTINF:-1,PL: Eurosport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6566.ts
-#EXTINF:-1,PL: Eurosport 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6522.ts
-#EXTINF:-1,PL: Eurosport 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6521.ts
-#EXTINF:-1,PL: Extreme Sports HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6520.ts
-#EXTINF:-1,PL: nsport  HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6479.ts
-#EXTINF:-1,PL: Polsat Sport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6545.ts
-#EXTINF:-1,PL: Polsat Sport Extra
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6544.ts
-#EXTINF:-1,PL: Polsat Sport Extra HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6426.ts
-#EXTINF:-1,PL: Polsat Sport Fight
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6473.ts
-#EXTINF:-1,PL: Polsat Sport Fight HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6506.ts
-#EXTINF:-1,PL: Polsat Sport HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6461.ts
-#EXTINF:-1,PL: Polsat Sport News HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6505.ts
-#EXTINF:-1,PL: Sportklub HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6438.ts
-#EXTINF:-1,PL: TVP Sport HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6467.ts
-#EXTINF:-1,PT: EUROSPORT 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6154.ts
-#EXTINF:-1,PT: EUROSPORT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6155.ts
-#EXTINF:-1,PT: Motorsport.Tv
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6176.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6190.ts
-#EXTINF:-1,PT: Sport.Tv
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6140.ts
-#EXTINF:-1,PT: SPORT.TV 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6207.ts
-#EXTINF:-1,PT: SPORT.TV 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6187.ts
-#EXTINF:-1,PT: SPORT.TV 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6208.ts
-#EXTINF:-1,PT: SPORT.TV 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6219.ts
-#EXTINF:-1,PT: SPORT.TV 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6188.ts
-#EXTINF:-1,PT: SPORT.TV 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6220.ts
-#EXTINF:-1,PT: SPORT.TV 4
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6191.ts
-#EXTINF:-1,PT: SPORT.TV 4 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6189.ts
-#EXTINF:-1,PT: SPORT.TV 5
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6209.ts
-#EXTINF:-1,PT: Sporting TV
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6204.ts
-#EXTINF:-1,RO: Digi Sport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6253.ts
-#EXTINF:-1,RO: Digi Sport 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6252.ts
-#EXTINF:-1,RO: Digi Sport 4
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6251.ts
-#EXTINF:-1,RO: Eurosport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6248.ts
-#EXTINF:-1,RO: Eurosport 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6247.ts
-#EXTINF:-1,RO: Extreme Sports Channel
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6297.ts
-#EXTINF:-1,RO: SPORT RO
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6323.ts
-#EXTINF:-1,SP: Bein Sports HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6075.ts
-#EXTINF:-1,SP: Eurosport 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6006.ts
-#EXTINF:-1,SP: Sport CDO HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6099.ts
-#EXTINF:-1,SP/LA: WinSports
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5981.ts
-#EXTINF:-1,SW: C MORE SPORT HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5813.ts
-#EXTINF:-1,SW: Eurosport 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5869.ts
-#EXTINF:-1,SW: EUROSPORT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5805.ts
-#EXTINF:-1,SW: TV2 SPORT
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5860.ts
-#EXTINF:-1,SW: TV3 SPORT 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5843.ts
-#EXTINF:-1,SW: TV3 SPORT HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5859.ts
-#EXTINF:-1,SW: TV4 SPORT HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5837.ts
-#EXTINF:-1,SW: Viasat Sport
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5887.ts
-#EXTINF:-1,SW: Viasat Sport Premium
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5888.ts
-#EXTINF:-1,EuroSport 2 HD FR
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/990.ts
-#EXTINF:-1,SP: LA LIGA BAR TV 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6008.ts
-#EXTINF:-1,SP: LA LIGA TV 2
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5978.ts
-#EXTINF:-1,SP: LA LIGA TV 3
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5979.ts
-#EXTINF:-1,SP: LA LIGA TV 4
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5980.ts
-#EXTINF:-1,SP: LA LIGA TV 5
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5992.ts
-#EXTINF:-1,SP: LA LIGA TV 6
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5991.ts
-#EXTINF:-1,SP: LA LIGA TV 7
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5990.ts
-#EXTINF:-1,SP: LA LIGA TV 8
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5989.ts
-#EXTINF:-1,SP: LA LIGA TV BAR HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/6009.ts
-#EXTINF:-1,SP: Bein LA LIGA TV 1
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5977.ts
-#EXTINF:-1,SP: BEIN MAX 1 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5969.ts
-#EXTINF:-1,SP: BEIN MAX 2 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5970.ts
-#EXTINF:-1,SP: BEIN MAX 3 HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5971.ts
-#EXTINF:-1,SP: BEIN MAX 4
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5972.ts
-#EXTINF:-1,SP: BEIN MAX 5
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5973.ts
-#EXTINF:-1,SP: BEIN MAX 6
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5974.ts
-#EXTINF:-1,SP: BEIN MAX 7
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5975.ts
-#EXTINF:-1,SP: BEIN MAX 8
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/5976.ts
-#EXTINF:-1,FR: BEIN SPORT MAX 6
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/2805.ts
-#EXTINF:-1,FR: Beinsport 1 HD
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/303.ts
-#EXTINF:-1,FR: Beinsport 2 HD
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/307.ts
-#EXTINF:-1,FR: Beinsport 3 HD
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/308.ts
-#EXTINF:-1,FR: Beinsport Max 4
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/2793.ts
-#EXTINF:-1,FR: Beinsport Max 5
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/2794.ts
-#EXTINF:-1,FR: Beinsport Max 7
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/2806.ts
-#EXTINF:-1,FR: Beinsport Max 8
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/2807.ts
-#EXTINF:-1,FR: Beinsport Max 9
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/2951.ts
-#EXTINF:-1,ES: Barca TV
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/971.ts
-#EXTINF:-1,ES: BEIN  LALIGA
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3549.ts
-#EXTINF:-1,ES: BEIN LALIGA FHD
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3621.ts
-#EXTINF:-1,ES: BEIN MAX 1
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3604.ts
-#EXTINF:-1,ES: BEIN MAX 2
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3603.ts
-#EXTINF:-1,ES: BEIN MAX 3
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3602.ts
-#EXTINF:-1,ES: BEIN MAX 4
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3601.ts
-#EXTINF:-1,ES: BEIN MAX 5
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3600.ts
-#EXTINF:-1,ES: BEIN MAX 6
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3599.ts
-#EXTINF:-1,ES: BEIN MAX 7
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3598.ts
-#EXTINF:-1,ES: BEIN MAX 8
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3597.ts
-#EXTINF:-1,ES: BEIN SPORT ES
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/973.ts
-#EXTINF:-1,ES: BEIN SPORT ESPAÃ‘A FHD
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3620.ts
-#EXTINF:-1,ES: BEINLALIGA1
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3612.ts
-#EXTINF:-1,ES: BEINLALIGA2
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3611.ts
-#EXTINF:-1,ES: BEINLALIGA3
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3610.ts
-#EXTINF:-1,ES: BEINLALIGA4
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3609.ts
-#EXTINF:-1,ES: BEINLALIGA5
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3608.ts
-#EXTINF:-1,ES: BEINLALIGA6
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3607.ts
-#EXTINF:-1,ES: BEINLALIGA7
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3606.ts
-#EXTINF:-1,ES: BEINLALIGA8
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/3605.ts
-#EXTINF:-1,TR: beIN Sports 1 HD ( Lig TV 1 )
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4641.ts
-#EXTINF:-1,TR: beIN Sports 2 HD ( Lig TV 2 )
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4640.ts
-#EXTINF:-1,TR: beIN Sports 3 HD ( Lig TV 3 )
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4639.ts
-#EXTINF:-1,TR: beIN Sports 4 HD ( Lig TV 4 )
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4638.ts
-#EXTINF:-1,TR: beIN Sports Haber HD
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4975.ts
-#EXTINF:-1,TR: beIN Sports HD 1
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4976.ts
-#EXTINF:-1,TR: beIN Sports HD 2
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4977.ts
-#EXTINF:-1,TR: beIN Sports HD 3
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4978.ts
-#EXTINF:-1,TR: beIN Sports HD 4
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4730.ts
-#EXTINF:-1,TR: beIN Sports MAX 1 HD
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4637.ts
-#EXTINF:-1,TR: beIN Sports MAX 2 HD
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4636.ts
-#EXTINF:-1,TR: beIN Sports MAX HD
-http://dynaiptv.tv:8010/live/Z2tiigx9cX/wcpNvLFRV1/4694.ts
-#EXTINF:-1,------- SWISS -------
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/313.ts
-#EXTINF:-1,Teleclub Sport
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/333.ts
-#EXTINF:-1,SRF 1 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/444.ts
-#EXTINF:-1,SRF 2 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/445.ts
-#EXTINF:-1,Star TV
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/291.ts
-#EXTINF:-1,Teleclub Cinema HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/446.ts
-#EXTINF:-1,Teleclub Prime HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/447.ts
-#EXTINF:-1,Teleclub Sport 1
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/449.ts
-#EXTINF:-1,Teleclub Star HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/448.ts
-#EXTINF:-1,BeinSports 1 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/335.ts
-#EXTINF:-1,BeinSports 2 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/336.ts
-#EXTINF:-1,BeinSports 3 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/337.ts
-#EXTINF:-1,Beinsport HD1
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/451.ts
-#EXTINF:-1,Beinsport HD2
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/452.ts
-#EXTINF:-1,Beinsport HD3
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/453.ts
-#EXTINF:-1,SFR Sport 1HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/338.ts
-#EXTINF:-1,SFR Sport 2HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/339.ts
-#EXTINF:-1,SFR Sport 3HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/340.ts
-#EXTINF:-1,Canal  Sport HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/334.ts
-#EXTINF:-1,Kinowelt TV HD.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/457.ts
-#EXTINF:-1,SuperSport 1 FHD AL
-http://clientportal.link:80/live/Petko/123456/22807.ts
-#EXTINF:-1,SuperSport 2 FHD AL
-http://clientportal.link:80/live/Petko/123456/22808.ts
-#EXTINF:-1,SuperSport 3 FHD AL
-http://clientportal.link:80/live/Petko/123456/22809.ts
-#EXTINF:-1,SuperSport 4 FHD AL
-http://clientportal.link:80/live/Petko/123456/22810.ts
-#EXTINF:-1,SuperSport 5 FHD AL
-http://clientportal.link:80/live/Petko/123456/22811.ts
-#EXTINF:-1,SuperSport 6 FHD AL
-http://clientportal.link:80/live/Petko/123456/22812.ts
-#EXTINF:-1,SuperSport 7 FHD AL
-http://clientportal.link:80/live/Petko/123456/22813.ts
-#EXTINF:-1,SuperSport Kosova 1 FHD AL
-http://clientportal.link:80/live/Petko/123456/22804.ts
-#EXTINF:-1,SuperSport Kosova 2 FHD AL
-http://clientportal.link:80/live/Petko/123456/22805.ts
-#EXTINF:-1,SuperSport Kosova 3 FHD AL
-http://clientportal.link:80/live/Petko/123456/22806.ts
-#EXTINF:-1,KS Gold 1 HD AL
-http://clientportal.link:80/live/Petko/123456/15777.ts
-#EXTINF:-1,Digi Gold 1 HD AL
-http://clientportal.link:80/live/Petko/123456/15778.ts
-#EXTINF:-1,Digi Gold 2 HD AL
-http://clientportal.link:80/live/Petko/123456/15779.ts
-#EXTINF:-1,K-Sport 1 AL
-http://clientportal.link:80/live/Petko/123456/9150.ts
-#EXTINF:-1,K-Sport 2 AL
-http://clientportal.link:80/live/Petko/123456/9151.ts
-#EXTINF:-1,K-Sport 3 AL
-http://clientportal.link:80/live/Petko/123456/9152.ts
-#EXTINF:-1,K-Sport 4 AL
-http://clientportal.link:80/live/Petko/123456/9153.ts
-#EXTINF:-1,SuperSport 1 HD AL
-http://clientportal.link:80/live/Petko/123456/4198.ts
-#EXTINF:-1,SuperSport 2 HD AL
-http://clientportal.link:80/live/Petko/123456/4199.ts
-#EXTINF:-1,SuperSport 3 HD AL
-http://clientportal.link:80/live/Petko/123456/4200.ts
-#EXTINF:-1,SuperSport 4 HD AL
-http://clientportal.link:80/live/Petko/123456/4201.ts
-#EXTINF:-1,SuperSport 5 HD AL
-http://clientportal.link:80/live/Petko/123456/9373.ts
-#EXTINF:-1,SuperSport Kosova 1 AL
-http://clientportal.link:80/live/Petko/123456/3822.ts
-#EXTINF:-1,SuperSport Kosova 2 AL
-http://clientportal.link:80/live/Petko/123456/3823.ts
-#EXTINF:-1,Tring Sport News HD AL
-http://clientportal.link:80/live/Petko/123456/8077.ts
-#EXTINF:-1,Tring Sport 1 HD AL
-http://clientportal.link:80/live/Petko/123456/8078.ts
-#EXTINF:-1,Tring Sport 2 HD AL
-http://clientportal.link:80/live/Petko/123456/8079.ts
-#EXTINF:-1,Tring Sport 3 HD AL
-http://clientportal.link:80/live/Petko/123456/8080.ts
-#EXTINF:-1,Tring Sport 4 HD AL
-http://clientportal.link:80/live/Petko/123456/8081.ts
-#EXTINF:-1,AlgÃ©rie 3 (Thalitha TV) DZ
-http://clientportal.link:80/live/Petko/123456/21950.ts
-#EXTINF:-1,â–¬ beIN Media Group â–¬
-http://clientportal.link:80/live/Petko/123456/16504.ts
-#EXTINF:-1,beIN SPORTS 1 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18277.ts
-#EXTINF:-1,beIN SPORTS 1 HD ARB
-http://clientportal.link:80/live/Petko/123456/14980.ts
-#EXTINF:-1,beIN SPORTS 1 SD ARB
-http://clientportal.link:80/live/Petko/123456/14981.ts
-#EXTINF:-1,beIN SPORTS 2 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18278.ts
-#EXTINF:-1,beIN SPORTS 2 HD ARB
-http://clientportal.link:80/live/Petko/123456/14982.ts
-#EXTINF:-1,beIN SPORTS 2 SD ARB
-http://clientportal.link:80/live/Petko/123456/14983.ts
-#EXTINF:-1,beIN SPORTS 3 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18279.ts
-#EXTINF:-1,beIN SPORTS 3 HD ARB
-http://clientportal.link:80/live/Petko/123456/14984.ts
-#EXTINF:-1,beIN SPORTS 3 SD ARB
-http://clientportal.link:80/live/Petko/123456/14985.ts
-#EXTINF:-1,beIN SPORTS 4 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18280.ts
-#EXTINF:-1,beIN SPORTS 4 HD ARB
-http://clientportal.link:80/live/Petko/123456/14986.ts
-#EXTINF:-1,beIN SPORTS 4 SD ARB
-http://clientportal.link:80/live/Petko/123456/14987.ts
-#EXTINF:-1,beIN SPORTS 5 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18281.ts
-#EXTINF:-1,beIN SPORTS 5 HD ARB
-http://clientportal.link:80/live/Petko/123456/14988.ts
-#EXTINF:-1,beIN SPORTS 5 SD ARB
-http://clientportal.link:80/live/Petko/123456/14989.ts
-#EXTINF:-1,beIN SPORTS 6 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18282.ts
-#EXTINF:-1,beIN SPORTS 6 HD ARB
-http://clientportal.link:80/live/Petko/123456/14990.ts
-#EXTINF:-1,beIN SPORTS 6 SD ARB
-http://clientportal.link:80/live/Petko/123456/14991.ts
-#EXTINF:-1,beIN SPORTS 7 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18283.ts
-#EXTINF:-1,beIN SPORTS 7 HD ARB
-http://clientportal.link:80/live/Petko/123456/14992.ts
-#EXTINF:-1,beIN SPORTS 7 SD ARB
-http://clientportal.link:80/live/Petko/123456/14993.ts
-#EXTINF:-1,beIN SPORTS 8 FHD ARB
-http://clientportal.link:80/live/Petko/123456/18284.ts
-#EXTINF:-1,beIN SPORTS 8 HD ARB
-http://clientportal.link:80/live/Petko/123456/14994.ts
-#EXTINF:-1,beIN SPORTS 8 SD ARB
-http://clientportal.link:80/live/Petko/123456/14995.ts
-#EXTINF:-1,beIN SPORTS 9 HD ARB
-http://clientportal.link:80/live/Petko/123456/14996.ts
-#EXTINF:-1,beIN SPORTS 9 SD ARB
-http://clientportal.link:80/live/Petko/123456/14997.ts
-#EXTINF:-1,beIN SPORTS 10 HD ARB
-http://clientportal.link:80/live/Petko/123456/14998.ts
-#EXTINF:-1,beIN SPORTS 10 SD ARB
-http://clientportal.link:80/live/Petko/123456/14999.ts
-#EXTINF:-1,beIN SPORTS 11 FHD ARB
-http://clientportal.link:80/live/Petko/123456/15000.ts
-#EXTINF:-1,beIN SPORTS 12 SD ARB
-http://clientportal.link:80/live/Petko/123456/15001.ts
-#EXTINF:-1,beIN SPORTS 1 HD FR
-http://clientportal.link:80/live/Petko/123456/14977.ts
-#EXTINF:-1,beIN SPORTS 1 FR
-http://clientportal.link:80/live/Petko/123456/5522.ts
-#EXTINF:-1,beIN SPORTS 2 FHD FR
-http://clientportal.link:80/live/Petko/123456/14978.ts
-#EXTINF:-1,beIN SPORTS 2 HD FR
-http://clientportal.link:80/live/Petko/123456/15637.ts
-#EXTINF:-1,beIN SPORTS 3 FHD FR
-http://clientportal.link:80/live/Petko/123456/4477.ts
-#EXTINF:-1,beIN SPORTS 3 HD FR
-http://clientportal.link:80/live/Petko/123456/14979.ts
-#EXTINF:-1,beIN SPORTS MAX 4 FHD FR
-http://clientportal.link:80/live/Petko/123456/18218.ts
-#EXTINF:-1,beIN SPORTS MAX 5 FHD FR
-http://clientportal.link:80/live/Petko/123456/18219.ts
-#EXTINF:-1,beIN SPORTS MAX 6 FHD FR
-http://clientportal.link:80/live/Petko/123456/18220.ts
-#EXTINF:-1,beIN SPORTS MAX 7 FHD FR
-http://clientportal.link:80/live/Petko/123456/18221.ts
-#EXTINF:-1,beIN SPORTS MAX 8 FHD FR
-http://clientportal.link:80/live/Petko/123456/18222.ts
-#EXTINF:-1,beIN SPORTS MAX 10 FHD FR
-http://clientportal.link:80/live/Petko/123456/18224.ts
-#EXTINF:-1,beIN SPORTS MAX 9 FHD FR
-http://clientportal.link:80/live/Petko/123456/18223.ts
-#EXTINF:-1,beIN SPORTS 1 HD TR
-http://clientportal.link:80/live/Petko/123456/15719.ts
-#EXTINF:-1,beIN SPORTS 2 HD TR
-http://clientportal.link:80/live/Petko/123456/15943.ts
-#EXTINF:-1,beIN SPORTS 2 HD TR
-http://clientportal.link:80/live/Petko/123456/6413.ts
-#EXTINF:-1,beIN SPORTS 3 HD TR
-http://clientportal.link:80/live/Petko/123456/6414.ts
-#EXTINF:-1,beIN SPORTS 3 HD TR
-http://clientportal.link:80/live/Petko/123456/15721.ts
-#EXTINF:-1,beIN SPORTS 4 HD TR
-http://clientportal.link:80/live/Petko/123456/15722.ts
-#EXTINF:-1,beIN SPORTS 4 HD TR
-http://clientportal.link:80/live/Petko/123456/13665.ts
-#EXTINF:-1,beIN SPORTS 1 FHD TR
-http://clientportal.link:80/live/Petko/123456/17739.ts
-#EXTINF:-1,beIN SPORTS 2 FHD TR
-http://clientportal.link:80/live/Petko/123456/17740.ts
-#EXTINF:-1,beIN SPORTS 3 FHD TR
-http://clientportal.link:80/live/Petko/123456/17741.ts
-#EXTINF:-1,beIN SPORTS 4 FHD TR
-http://clientportal.link:80/live/Petko/123456/19038.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD Â TR
-http://clientportal.link:80/live/Petko/123456/15723.ts
-#EXTINF:-1,beIN SPORTS HABER HD TR
-http://clientportal.link:80/live/Petko/123456/17896.ts
-#EXTINF:-1,Eurosport 1 RS
-http://clientportal.link:80/live/Petko/123456/1443.ts
-#EXTINF:-1,Eurosport 2 RS
-http://clientportal.link:80/live/Petko/123456/1444.ts
-#EXTINF:-1,Arena Sport 2 FHD HR
-http://clientportal.link:80/live/Petko/123456/17914.ts
-#EXTINF:-1,Arena Sport 3 HD HR
-http://clientportal.link:80/live/Petko/123456/17916.ts
-#EXTINF:-1,Arena Sport 4 FHD HR
-http://clientportal.link:80/live/Petko/123456/17915.ts
-#EXTINF:-1,Arena Sport 1 HR
-http://clientportal.link:80/live/Petko/123456/1436.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://clientportal.link:80/live/Petko/123456/1437.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://clientportal.link:80/live/Petko/123456/1438.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://clientportal.link:80/live/Petko/123456/1439.ts
-#EXTINF:-1,Arena Sport 5 HR
-http://clientportal.link:80/live/Petko/123456/13827.ts
-#EXTINF:-1,Arena Sport 6 HD HR
-http://clientportal.link:80/live/Petko/123456/13828.ts
-#EXTINF:-1,Arena Sport 1 RS
-http://clientportal.link:80/live/Petko/123456/3182.ts
-#EXTINF:-1,Arena Sport 2 HD RS
-http://clientportal.link:80/live/Petko/123456/3183.ts
-#EXTINF:-1,Arena Sport 3 RS
-http://clientportal.link:80/live/Petko/123456/3184.ts
-#EXTINF:-1,Arena Sport 4 RS
-http://clientportal.link:80/live/Petko/123456/3185.ts
-#EXTINF:-1,Arena Sport 5 RS
-http://clientportal.link:80/live/Petko/123456/3186.ts
-#EXTINF:-1,Sport Klub 1 RS
-http://clientportal.link:80/live/Petko/123456/13832.ts
-#EXTINF:-1,Sport Klub 2 HR
-http://clientportal.link:80/live/Petko/123456/13833.ts
-#EXTINF:-1,Sport Klub 3 HR
-http://clientportal.link:80/live/Petko/123456/13834.ts
-#EXTINF:-1,Sport Klub 4 RS
-http://clientportal.link:80/live/Petko/123456/13829.ts
-#EXTINF:-1,Sport Klub 5 RS
-http://clientportal.link:80/live/Petko/123456/13830.ts
-#EXTINF:-1,Sport Klub 6 RS
-http://clientportal.link:80/live/Petko/123456/13831.ts
-#EXTINF:-1,Sport Klub 1 HD RS
-http://clientportal.link:80/live/Petko/123456/1440.ts
-#EXTINF:-1,Sport Klub 2 RS
-http://clientportal.link:80/live/Petko/123456/1441.ts
-#EXTINF:-1,Sport Klub 3 HD RS
-http://clientportal.link:80/live/Petko/123456/1442.ts
-#EXTINF:-1,SFR Sport 1 HD FR
-http://clientportal.link:80/live/Petko/123456/13182.ts
-#EXTINF:-1,SFR Sport 2 HD FR
-http://clientportal.link:80/live/Petko/123456/2251.ts
-#EXTINF:-1,SFR Sport 3 HD FR
-http://clientportal.link:80/live/Petko/123456/21522.ts
-#EXTINF:-1,SFR Sport 4 HD FR
-http://clientportal.link:80/live/Petko/123456/13148.ts
-#EXTINF:-1,SFR Sport 5 HD FR
-http://clientportal.link:80/live/Petko/123456/13151.ts
-#EXTINF:-1,Sky Select 3 Live DE
-http://clientportal.link:80/live/Petko/123456/11267.ts
-#EXTINF:-1,Sky Select 4 Live DE
-http://clientportal.link:80/live/Petko/123456/11268.ts
-#EXTINF:-1,Sky Select 5 Live DE
-http://clientportal.link:80/live/Petko/123456/11269.ts
-#EXTINF:-1,Sky Select 6 Live DE
-http://clientportal.link:80/live/Petko/123456/11270.ts
-#EXTINF:-1,Sky Select 7 Live DE
-http://clientportal.link:80/live/Petko/123456/11271.ts
-#EXTINF:-1,Sky Select 8 Live DE
-http://clientportal.link:80/live/Petko/123456/11272.ts
-#EXTINF:-1,Sky Select 9 Live DE
-http://clientportal.link:80/live/Petko/123456/12290.ts
-#EXTINF:-1,Sky Sport 1 DE
-http://clientportal.link:80/live/Petko/123456/14559.ts
-#EXTINF:-1,Sky Sport 1 HD DE
-http://clientportal.link:80/live/Petko/123456/1479.ts
-#EXTINF:-1,Sky Sport 1 FHD DE
-http://clientportal.link:80/live/Petko/123456/7326.ts
-#EXTINF:-1,Sky Sport 10 FHD DE
-http://clientportal.link:80/live/Petko/123456/7335.ts
-#EXTINF:-1,Sky Sport 11 HD DE
-http://clientportal.link:80/live/Petko/123456/7336.ts
-#EXTINF:-1,Sky Sport 2 DE
-http://clientportal.link:80/live/Petko/123456/14560.ts
-#EXTINF:-1,Sky Sport 2 HD DE
-http://clientportal.link:80/live/Petko/123456/1480.ts
-#EXTINF:-1,Sky Sport 2 FHD DE
-http://clientportal.link:80/live/Petko/123456/7327.ts
-#EXTINF:-1,Sky Sport 3 DE
-http://clientportal.link:80/live/Petko/123456/14561.ts
-#EXTINF:-1,Sky Sport 3 FHD DE
-http://clientportal.link:80/live/Petko/123456/7328.ts
-#EXTINF:-1,Sky Sport 4 DE
-http://clientportal.link:80/live/Petko/123456/14562.ts
-#EXTINF:-1,Sky Sport 4 FHD DE
-http://clientportal.link:80/live/Petko/123456/7329.ts
-#EXTINF:-1,Sky Sport 5 DE
-http://clientportal.link:80/live/Petko/123456/14563.ts
-#EXTINF:-1,Sky Sport 5 FHD DE
-http://clientportal.link:80/live/Petko/123456/7330.ts
-#EXTINF:-1,Sky Sport 6 DE
-http://clientportal.link:80/live/Petko/123456/14564.ts
-#EXTINF:-1,Sky Sport 6 FHD DE
-http://clientportal.link:80/live/Petko/123456/7331.ts
-#EXTINF:-1,Sky Sport 7 DE
-http://clientportal.link:80/live/Petko/123456/14565.ts
-#EXTINF:-1,Sky Sport 7 FHD DE
-http://clientportal.link:80/live/Petko/123456/7332.ts
-#EXTINF:-1,Sky Sport 8 DE
-http://clientportal.link:80/live/Petko/123456/14566.ts
-#EXTINF:-1,Sky Sport 8 FHD DE
-http://clientportal.link:80/live/Petko/123456/7333.ts
-#EXTINF:-1,Sky Sport 9 DE
-http://clientportal.link:80/live/Petko/123456/14567.ts
-#EXTINF:-1,Sky Sport 9 FHD DE
-http://clientportal.link:80/live/Petko/123456/7334.ts
-#EXTINF:-1,Sky Sport Austria DE
-http://clientportal.link:80/live/Petko/123456/9551.ts
-#EXTINF:-1,Sky Sport Austria HD DE
-http://clientportal.link:80/live/Petko/123456/15578.ts
-#EXTINF:-1,Sky Bundesliga 1 DE
-http://clientportal.link:80/live/Petko/123456/14550.ts
-#EXTINF:-1,Sky Bundesliga 1 HD DE
-http://clientportal.link:80/live/Petko/123456/3436.ts
-#EXTINF:-1,Sky Bundesliga 1 FHD DE
-http://clientportal.link:80/live/Petko/123456/7338.ts
-#EXTINF:-1,Sky Bundesliga 10 DE
-http://clientportal.link:80/live/Petko/123456/14558.ts
-#EXTINF:-1,Sky Bundesliga 10 FHD DE
-http://clientportal.link:80/live/Petko/123456/7347.ts
-#EXTINF:-1,Sky Bundesliga 2 DE
-http://clientportal.link:80/live/Petko/123456/14551.ts
-#EXTINF:-1,Sky Bundesliga 2 FHD DE
-http://clientportal.link:80/live/Petko/123456/7339.ts
-#EXTINF:-1,Sky Bundesliga 3 DE
-http://clientportal.link:80/live/Petko/123456/14552.ts
-#EXTINF:-1,Sky Bundesliga 3 FHD DE
-http://clientportal.link:80/live/Petko/123456/7340.ts
-#EXTINF:-1,Sky Bundesliga 4 DE
-http://clientportal.link:80/live/Petko/123456/14553.ts
-#EXTINF:-1,Sky Bundesliga 4 FHD DE
-http://clientportal.link:80/live/Petko/123456/7341.ts
-#EXTINF:-1,Sky Bundesliga 5 DE
-http://clientportal.link:80/live/Petko/123456/14554.ts
-#EXTINF:-1,Sky Bundesliga 5 FHD DE
-http://clientportal.link:80/live/Petko/123456/7342.ts
-#EXTINF:-1,Sky Bundesliga 6 DE
-http://clientportal.link:80/live/Petko/123456/14555.ts
-#EXTINF:-1,Sky Bundesliga 6 FHD DE
-http://clientportal.link:80/live/Petko/123456/7343.ts
-#EXTINF:-1,Sky Bundesliga 7 FHD DE
-http://clientportal.link:80/live/Petko/123456/7344.ts
-#EXTINF:-1,Sky Bundesliga 8 DE
-http://clientportal.link:80/live/Petko/123456/14556.ts
-#EXTINF:-1,Sky Bundesliga 8 FHD DE
-http://clientportal.link:80/live/Petko/123456/7345.ts
-#EXTINF:-1,Sky Bundesliga 9 DE
-http://clientportal.link:80/live/Petko/123456/14557.ts
-#EXTINF:-1,Sky Bundesliga 9 FHD DE
-http://clientportal.link:80/live/Petko/123456/7346.ts
-#EXTINF:-1,Sky Sport News DE
-http://clientportal.link:80/live/Petko/123456/14577.ts
-#EXTINF:-1,Sky Sport News HD VIP DE
-http://clientportal.link:80/live/Petko/123456/7337.ts
-#EXTINF:-1,Spiegel Geschichte DE
-http://clientportal.link:80/live/Petko/123456/3621.ts
-#EXTINF:-1,Spiegel TV Wissen FHD DE
-http://clientportal.link:80/live/Petko/123456/14045.ts
-#EXTINF:-1,SPORT1 DE
-http://clientportal.link:80/live/Petko/123456/9552.ts
-#EXTINF:-1,Sport 1 US HD DE
-http://clientportal.link:80/live/Petko/123456/18820.ts
-#EXTINF:-1,SPORT1 FHD DE
-http://clientportal.link:80/live/Petko/123456/15745.ts
-#EXTINF:-1,sportdigital DE
-http://clientportal.link:80/live/Petko/123456/3841.ts
-#EXTINF:-1,sportdigital FHD DE
-http://clientportal.link:80/live/Petko/123456/16582.ts
-#EXTINF:-1,FOX Sports 1 HD NL
-http://clientportal.link:80/live/Petko/123456/15843.ts
-#EXTINF:-1,FOX Sports 1 FHD NL
-http://clientportal.link:80/live/Petko/123456/4169.ts
-#EXTINF:-1,FOX Sports 2 HD NL
-http://clientportal.link:80/live/Petko/123456/4170.ts
-#EXTINF:-1,FOX Sports 2 FHD NL
-http://clientportal.link:80/live/Petko/123456/12530.ts
-#EXTINF:-1,FOX Sports 3 HD NL
-http://clientportal.link:80/live/Petko/123456/4171.ts
-#EXTINF:-1,Fox Sports 3 FHD NL
-http://clientportal.link:80/live/Petko/123456/17218.ts
-#EXTINF:-1,FOX Sports 4 HD NL
-http://clientportal.link:80/live/Petko/123456/4172.ts
-#EXTINF:-1,FOX Sports 5 HD NL
-http://clientportal.link:80/live/Petko/123456/4173.ts
-#EXTINF:-1,FOX Sports 6 HD NL
-http://clientportal.link:80/live/Petko/123456/11231.ts
-#EXTINF:-1,Ziggo Sport Select NL
-http://clientportal.link:80/live/Petko/123456/4166.ts
-#EXTINF:-1,Ziggo Sport Select FHD NL
-http://clientportal.link:80/live/Petko/123456/12523.ts
-#EXTINF:-1,Ziggo Sport Voetbal NL
-http://clientportal.link:80/live/Petko/123456/4167.ts
-#EXTINF:-1,Ziggo Sport Voetbal HD NL
-http://clientportal.link:80/live/Petko/123456/15803.ts
-#EXTINF:-1,Ziggo Sport Racing HD NL
-http://clientportal.link:80/live/Petko/123456/7009.ts
-#EXTINF:-1,Ziggo Sport Golf HD NL
-http://clientportal.link:80/live/Petko/123456/4168.ts
-#EXTINF:-1,Ziggo Sport Extra1 NL
-http://clientportal.link:80/live/Petko/123456/7007.ts
-#EXTINF:-1,Ziggo Sport Extra2 NL
-http://clientportal.link:80/live/Petko/123456/7008.ts
-#EXTINF:-1,Eurosport 1 HD NL
-http://clientportal.link:80/live/Petko/123456/11235.ts
-#EXTINF:-1,Eurosport 1 FHD NL
-http://clientportal.link:80/live/Petko/123456/12532.ts
-#EXTINF:-1,â–¬ Premier League â–¬
-http://clientportal.link:80/live/Petko/123456/16510.ts
-#EXTINF:-1,NBC Sports Extra 1 [Newcastle United vs Chelsea UK
-http://clientportal.link:80/live/Petko/123456/8403.ts
-#EXTINF:-1,NBC Sports Extra 2 [West Ham United vs Everton] UK
-http://clientportal.link:80/live/Petko/123456/8404.ts
-#EXTINF:-1,NBC Sports Extra 3 [Huddersfield Town vs Arsenal]  UK
-http://clientportal.link:80/live/Petko/123456/8405.ts
-#EXTINF:-1,NBC Sports Extra 4 [Burnley vs AFC Bournemouth] UK
-http://clientportal.link:80/live/Petko/123456/8406.ts
-#EXTINF:-1,NBC Sports Extra 5 [Tottenham Hotspur vs Leicester City] HD UK
-http://clientportal.link:80/live/Petko/123456/8407.ts
-#EXTINF:-1,NBC Sports Extra 6 [Manchester United vs Watford] UK
-http://clientportal.link:80/live/Petko/123456/8408.ts
-#EXTINF:-1,NBC Sports Extra 7 [Aston Villa vs Middlesbrough FC] UK
-http://clientportal.link:80/live/Petko/123456/8409.ts
-#EXTINF:-1,NBC Sports Network HD US
-http://clientportal.link:80/live/Petko/123456/9008.ts
-#EXTINF:-1,Sky Net Sports UK
-http://clientportal.link:80/live/Petko/123456/13515.ts
-#EXTINF:-1,Sky Net Sports 1 UK
-http://clientportal.link:80/live/Petko/123456/13514.ts
-#EXTINF:-1,Sky Net Sports 2 UK
-http://clientportal.link:80/live/Petko/123456/10919.ts
-#EXTINF:-1,Sky Net Sports 3 UK
-http://clientportal.link:80/live/Petko/123456/10918.ts
-#EXTINF:-1,Sky Net Sports 4 UK
-http://clientportal.link:80/live/Petko/123456/10917.ts
-#EXTINF:-1,Sky Net Sports 5 UK
-http://clientportal.link:80/live/Petko/123456/10916.ts
-#EXTINF:-1,Sky Net Sports 6 UK
-http://clientportal.link:80/live/Petko/123456/10915.ts
-#EXTINF:-1,Ginx eSports TV UK
-http://clientportal.link:80/live/Petko/123456/17165.ts
-#EXTINF:-1,beIN SPORTS 1 TH
-http://clientportal.link:80/live/Petko/123456/16956.ts
-#EXTINF:-1,beIN SPORTS 2 TH
-http://clientportal.link:80/live/Petko/123456/16957.ts
-#EXTINF:-1,beIN SPORTS 3 TH
-http://clientportal.link:80/live/Petko/123456/16958.ts
-#EXTINF:-1,beIN SPORTS 4 TH
-http://clientportal.link:80/live/Petko/123456/16959.ts
-#EXTINF:-1,Sky News HD UK
-http://clientportal.link:80/live/Petko/123456/19039.ts
-#EXTINF:-1,Cartoonito UK
-http://clientportal.link:80/live/Petko/123456/18790.ts
-#EXTINF:-1,EPL 1
-http://clientportal.link:80/live/Petko/123456/19032.ts
-#EXTINF:-1,EPL 2
-http://clientportal.link:80/live/Petko/123456/19033.ts
-#EXTINF:-1,EPL 3
-http://clientportal.link:80/live/Petko/123456/19034.ts
-#EXTINF:-1,EPL 4
-http://clientportal.link:80/live/Petko/123456/19035.ts
-#EXTINF:-1,EPL 5
-http://clientportal.link:80/live/Petko/123456/19036.ts
-#EXTINF:-1,EPL 6
-http://clientportal.link:80/live/Petko/123456/19037.ts
-#EXTINF:-1,EFL 1 [Cardiff vs Reading]
-http://clientportal.link:80/live/Petko/123456/19089.ts
-#EXTINF:-1,[Hearts vs Celtic]
-http://clientportal.link:80/live/Petko/123456/19090.ts
-#EXTINF:-1,Sky Sports Action HD UK
-http://clientportal.link:80/live/Petko/123456/3598.ts
-#EXTINF:-1,Sky Sports Action UK
-http://clientportal.link:80/live/Petko/123456/14747.ts
-#EXTINF:-1,Sky Sports Arena FHD UK
-http://clientportal.link:80/live/Petko/123456/16969.ts
-#EXTINF:-1,Sky Sports Arena HD UK
-http://clientportal.link:80/live/Petko/123456/16968.ts
-#EXTINF:-1,Sky Sports Main Event HD UK
-http://clientportal.link:80/live/Petko/123456/5600.ts
-#EXTINF:-1,Sky Sports Main Event UK
-http://clientportal.link:80/live/Petko/123456/14753.ts
-#EXTINF:-1,Sky Sports Cricket HD UK
-http://clientportal.link:80/live/Petko/123456/5601.ts
-#EXTINF:-1,Sky Sports Cricket UK
-http://clientportal.link:80/live/Petko/123456/14750.ts
-#EXTINF:-1,Sky Sports Football HD UK
-http://clientportal.link:80/live/Petko/123456/20024.ts
-#EXTINF:-1,Sky Sports Football FHD UK
-http://clientportal.link:80/live/Petko/123456/16970.ts
-#EXTINF:-1,Sky Sports Golf HD UK
-http://clientportal.link:80/live/Petko/123456/3600.ts
-#EXTINF:-1,Sky Sports Golf UK
-http://clientportal.link:80/live/Petko/123456/14744.ts
-#EXTINF:-1,Sky Sports Premier League HD UK
-http://clientportal.link:80/live/Petko/123456/4458.ts
-#EXTINF:-1,Sky Sports Premier League UK
-http://clientportal.link:80/live/Petko/123456/14742.ts
-#EXTINF:-1,Sky Sports Box Office UK [Tony Bellew vs David Haye]
-http://clientportal.link:80/live/Petko/123456/14756.ts
-#EXTINF:-1,Sky Sports F1 HD UK
-http://clientportal.link:80/live/Petko/123456/3603.ts
-#EXTINF:-1,Sky Sports F1 UK
-http://clientportal.link:80/live/Petko/123456/14739.ts
-#EXTINF:-1,Sky Sports Mix HD UK
-http://clientportal.link:80/live/Petko/123456/14902.ts
-#EXTINF:-1,Sky Sports Mix UK
-http://clientportal.link:80/live/Petko/123456/14926.ts
-#EXTINF:-1,Sky Sports News HD UK
-http://clientportal.link:80/live/Petko/123456/1954.ts
-#EXTINF:-1,BT Sport 1 FHD UK
-http://clientportal.link:80/live/Petko/123456/14657.ts
-#EXTINF:-1,BT Sport 1 HD UK
-http://clientportal.link:80/live/Petko/123456/1991.ts
-#EXTINF:-1,BT Sport 1 UK
-http://clientportal.link:80/live/Petko/123456/3586.ts
-#EXTINF:-1,BT Sport 2 FHD UK
-http://clientportal.link:80/live/Petko/123456/14658.ts
-#EXTINF:-1,BT Sport 2 HD UK
-http://clientportal.link:80/live/Petko/123456/1992.ts
-#EXTINF:-1,BT Sport 2 UK
-http://clientportal.link:80/live/Petko/123456/3588.ts
-#EXTINF:-1,BT Sport 3 FHD UK
-http://clientportal.link:80/live/Petko/123456/14659.ts
-#EXTINF:-1,BT Sport 3 UK
-http://clientportal.link:80/live/Petko/123456/1965.ts
-#EXTINF:-1,BT Sport ESPN UK
-http://clientportal.link:80/live/Petko/123456/2673.ts
-#EXTINF:-1,BT Sport ESPN HD UK
-http://clientportal.link:80/live/Petko/123456/1980.ts
-#EXTINF:-1,BT Sport Extra 1 UK
-http://clientportal.link:80/live/Petko/123456/14778.ts
-#EXTINF:-1,BT Sport Extra 2 UK
-http://clientportal.link:80/live/Petko/123456/14809.ts
-#EXTINF:-1,BT Sport Extra 3 UK
-http://clientportal.link:80/live/Petko/123456/14808.ts
-#EXTINF:-1,BT Sport Extra 4 UK
-http://clientportal.link:80/live/Petko/123456/14807.ts
-#EXTINF:-1,BT Sport Extra 5 UK
-http://clientportal.link:80/live/Petko/123456/14806.ts
-#EXTINF:-1,BT Sport Mosaic 2 UK
-http://clientportal.link:80/live/Petko/123456/14805.ts
-#EXTINF:-1,BT Sport Mosaic UK
-http://clientportal.link:80/live/Petko/123456/14777.ts
-#EXTINF:-1,BT Sport 3 HD UK
-http://clientportal.link:80/live/Petko/123456/14903.ts
-
-#EXTINF:-1,Premier Sports
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/331.ts
-#EXTINF:-1,BT Sport//ESPN
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/259.ts
-#EXTINF:-1,Sky News Sport
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/249.ts
-#EXTINF:-1,BT Sport 1
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/256.ts
-#EXTINF:-1,BT Sport 2
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/257.ts
-#EXTINF:-1,BT Sport 3
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/258.ts
-#EXTINF:-1,Sky Sport F1
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/255.ts
-#EXTINF:-1,Sky Sports 1
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/250.ts
-#EXTINF:-1,Sky Sports 1 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/326.ts
-#EXTINF:-1,Sky Sports 2
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/251.ts
-#EXTINF:-1,Sky Sports 2 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/327.ts
-#EXTINF:-1,Sky Sports 3
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/252.ts
-#EXTINF:-1,Sky Sports 3 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/328.ts
-#EXTINF:-1,Sky Sports 4
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/253.ts
-#EXTINF:-1,Sky Sports 4 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/329.ts
-#EXTINF:-1,Sky Sports 5
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/254.ts
-#EXTINF:-1,Teleclub Cinema
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/260.ts
-#EXTINF:-1,Teleclub Prime
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/261.ts
-#EXTINF:-1,Teleclub Sport1
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/263.ts
-#EXTINF:-1,Teleclub Sport2
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/264.ts
-#EXTINF:-1,Teleclub Star
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/262.ts
-#EXTINF:-1,Bein Sports USA
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/332.ts
-#EXTINF:-1,Sky Sport News HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/44.ts
-#EXTINF:-1,Sky Sport HD 1
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/46.ts
-#EXTINF:-1,Sky Sport HD 1.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/461.ts
-#EXTINF:-1,Sky Sport HD 2
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/47.ts
-#EXTINF:-1,Sky Sport HD 2.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/462.ts
-#EXTINF:-1,Sky Sport HD 3
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/48.ts
-#EXTINF:-1,Sky Sport HD 3.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/463.ts
-#EXTINF:-1,Sky Sport HD 4
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/49.ts
-#EXTINF:-1,Sky Sport HD 4.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/464.ts
-#EXTINF:-1,Sky Sport HD 5
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/50.ts
-#EXTINF:-1,Sky Sport HD 5.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/465.ts
-#EXTINF:-1,Sky Sport HD 6
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/51.ts
-#EXTINF:-1,Sky Sport HD 7
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/52.ts
-#EXTINF:-1,Sky Sport HD 8
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/53.ts
-#EXTINF:-1,Sky Sport HD 9
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/54.ts
-#EXTINF:-1,Sky Sport HD 11
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/56.ts
-#EXTINF:-1,Sky Sport HD 10
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/55.ts
-#EXTINF:-1,Sportdigital HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/135.ts
-#EXTINF:-1,Sport1 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/536.ts
-#EXTINF:-1,Sport1+ HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/57.ts
-#EXTINF:-1,Sport1 US HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/58.ts
-#EXTINF:-1,Sky HD FanZone
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/110.ts
-#EXTINF:-1,Sky Bundesliga HD 1
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/79.ts
-#EXTINF:-1,Sky Bundesliga HD 1.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/466.ts
-#EXTINF:-1,Sky Bundesliga HD 2
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/80.ts
-#EXTINF:-1,Sky Bundesliga HD 2.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/467.ts
-#EXTINF:-1,Sky Bundesliga HD 3
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/81.ts
-#EXTINF:-1,Sky Bundesliga HD 3.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/468.ts
-#EXTINF:-1,Sky Bundesliga HD 4
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/82.ts
-#EXTINF:-1,Sky Bundesliga HD 4.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/469.ts
-#EXTINF:-1,Sky Bundesliga HD 5
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/83.ts
-#EXTINF:-1,Sky Bundesliga HD 5.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/470.ts
-#EXTINF:-1,Sky Bundesliga HD 6
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/84.ts
-#EXTINF:-1,Sky Bundesliga HD 7
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/85.ts
-#EXTINF:-1,Sky Bundesliga HD 8
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/86.ts
-#EXTINF:-1,Sky Bundesliga HD 9
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/87.ts
-#EXTINF:-1,Sky Bundesliga HD 10
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/88.ts
-#EXTINF:-1,FC Bayern MÃ¼nchen TV HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/350.ts
-#EXTINF:-1,Sky Sport Austria
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/32.ts
-#EXTINF:-1,Eurosport Bundesliga Player HD XTRA
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/454.ts
-#EXTINF:-1,Eurosport Bundesliga Player HD XTRA.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/537.ts
-#EXTINF:-1,Eurosport HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/99.ts
-#EXTINF:-1,Eurosport HD.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/471.ts
-#EXTINF:-1,Eurosport 2 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/45.ts
-#EXTINF:-1,Eurosport 2 HD.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/472.ts
-#EXTINF:-1,Teleclub Sport 1
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/449.ts
-#EXTINF:-1,Teleclub Star HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/448.ts
-#EXTINF:-1,BeinSports 1 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/335.ts
-#EXTINF:-1,BeinSports 2 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/336.ts
-#EXTINF:-1,BeinSports 3 HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/337.ts
-#EXTINF:-1,Beinsport HD1
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/451.ts
-#EXTINF:-1,Beinsport HD2
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/452.ts
-#EXTINF:-1,Beinsport HD3
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/453.ts
-#EXTINF:-1,SFR Sport 1HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/338.ts
-#EXTINF:-1,SFR Sport 2HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/339.ts
-#EXTINF:-1,SFR Sport 3HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/340.ts
-#EXTINF:-1,Canal  Sport HD
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/334.ts
-#EXTINF:-1,Kinowelt TV HD.
-http://37.59.80.153:55875/live/Frggr_352dh/sdfjgg8dh/457.ts
-
-#EXTINF:-1 tvg-id="â•â•â•â•â• SPORT â•â•â•â•â•" tvg-link="" tvg-name="â•â•â•â•â• SPORT â•â•â•â•â•" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwXwA5v-64-6LVSwW6J32_ENHt9ivOHF8o1vYJUkr_efW49Cq1" group-title="Sport",â•â•â•â•â• SPORT â•â•â•â•â•
-http://s02.bossna-caffe.com:80/live?channelId=419&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="HNTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="HNTV" tvg-logo="https://yt3.ggpht.com/-9d3odfEzQFw/AAAAAAAAAAI/AAAAAAAAAAA/NqIxPY_x9dk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Sport",HNTV
-http://medias.bossna-caffe.com:80/live?channelId=1191&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SK1HR" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 1 HR" tvg-logo="http://nextgen-iptv.com/logo/SK1_HR.png" group-title="Sport",Sport Klub 1 HR
-http://video.bossna-caffe.com:80/live?channelId=44&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SK2HR" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 2 HR" tvg-logo="http://nextgen-iptv.com/logo/SK2_HR.png" group-title="Sport",Sport Klub 2 HR
-http://video.bossna-caffe.com:80/live?channelId=45&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SK3HR" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 3 HR" tvg-logo="http://nextgen-iptv.com/logo/SK3_HR.png" group-title="Sport",Sport Klub 3 HR
-http://video.bossna-caffe.com:80/live?channelId=46&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SportKlub4" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 4" tvg-logo="http://i.imgur.com/0Z7YQxP.jpg" group-title="Sport",Sport Klub 4
-http://video.bossna-caffe.com:80/live?channelId=601&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SportKlub5" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 5" tvg-logo="http://i.imgur.com/v15bdUd.jpg" group-title="Sport",Sport Klub 5
-http://video.bossna-caffe.com:80/live?channelId=602&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SportKlub6" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 6" tvg-logo="http://i.imgur.com/JJaWEDw.jpg" group-title="Sport",Sport Klub 6
-http://video.bossna-caffe.com:80/live?channelId=603&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SportKlub1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 1" tvg-logo="http://nextgen-iptv.com/logo/SK1_HR.png" group-title="Sport",Sport Klub 1
-http://video.bossna-caffe.com:80/live?channelId=254&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SportKlub2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 2" tvg-logo="http://nextgen-iptv.com/logo/SK2_HR.png" group-title="Sport",Sport Klub 2
-http://video.bossna-caffe.com:80/live?channelId=255&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SportKlub3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 3" tvg-logo="http://nextgen-iptv.com/logo/SK3_HR.png" group-title="Sport",Sport Klub 3
-http://video.bossna-caffe.com:80/live?channelId=256&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="ArenaSport1hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 1 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport1_HR.png" group-title="Sport",Arena Sport 1 HR
-http://video.bossna-caffe.com:80/live?channelId=52&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="ArenaSport2hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 2 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport2_HR.png" group-title="Sport",Arena Sport 2 HR
-http://video.bossna-caffe.com:80/live?channelId=53&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="ArenaSport3hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 3 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport3_HR.png" group-title="Sport",Arena Sport 3 HR
-http://video.bossna-caffe.com:80/live?channelId=54&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="ArenaSport4hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 4 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport4_HR.png" group-title="Sport",Arena Sport 4 HR
-http://video.bossna-caffe.com:80/live?channelId=88&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="ArenaSport5hr" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 5 HR" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport5_HR.png" group-title="Sport",Arena Sport 5 HR
-http://video.bossna-caffe.com:80/live?channelId=178&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="ArenaSport1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 1" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport1_SRB.png" group-title="Sport",Arena Sport 1
-http://video.bossna-caffe.com:80/live?channelId=187&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="ArenaSport2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 2" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport2_SRB.png" group-title="Sport",Arena Sport 2
-http://video.bossna-caffe.com:80/live?channelId=188&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="ArenaSport3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 3" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport3_SRB.png" group-title="Sport",Arena Sport 3
-http://video.bossna-caffe.com:80/live?channelId=189&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="ArenaSport4" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 4" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport4_SRB.png" group-title="Sport",Arena Sport 4
-http://video.bossna-caffe.com:80/live?channelId=190&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="ArenaSport5" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 5" tvg-logo="http://nextgen-iptv.com/logo/ArenaSport5_SRB.png" group-title="Sport",Arena Sport 5
-http://video.bossna-caffe.com:80/live?channelId=211&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="EUROSPORT" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Eurosport 1" tvg-logo="http://nextgen-iptv.com/logo/eurosport%20cz.png" group-title="Sport",Eurosport 1
-http://s02.bossna-caffe.com:80/live?channelId=29&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="EUROSPORT2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Eurosport 2" tvg-logo="http://nextgen-iptv.com/logo/eurrosport%202%20hun.png" group-title="Sport",Eurosport 2
-http://s02.bossna-caffe.com:80/live?channelId=150&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SkySports1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Action HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports1_UK.png" group-title="Sport",Sky Sports Action HD
-http://s02.bossna-caffe.com:80/live?channelId=26&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SkySports2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Arena HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports2_UK.png" group-title="Sport",Sky Sports Arena HD
-http://s02.bossna-caffe.com:80/live?channelId=90&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SkySports3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Cricket HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports3_UK.png" group-title="Sport",Sky Sports Cricket HD
-http://cms.bossna-caffe.com:80/live?channelId=65&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SkySports4" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports Football HD" tvg-logo="http://nextgen-iptv.com/logo/SkySports4_UK.png" group-title="Sport",Sky Sports Football HD
-http://video.bossna-caffe.com:80/live?channelId=91&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="SkySportsF1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sky Sports F1 UK" tvg-logo="http://nextgen-iptv.com/logo/SkySportsF1_UK.png" group-title="Sport",Sky Sports F1 UK
-http://cms.bossna-caffe.com:80/live?channelId=593&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BS1HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 1" tvg-logo="http://nextgen-iptv.com/logo/BeinSports1_FR.png" group-title="Sport",Bein Sports 1
-http://cms.bossna-caffe.com:80/live?channelId=466&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BS2HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 2" tvg-logo="http://esso.bossna-caffe.com/logos/BeIN_Sport_2_Indonesia.png" group-title="Sport",Bein Sports 2
-http://cms.bossna-caffe.com:80/live?channelId=374&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BS3HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 3" tvg-logo="http://nextgen-iptv.com/logo/BeinSports3_FR.png" group-title="Sport",Bein Sports 3
-http://cms.bossna-caffe.com:80/live?channelId=463&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BS4HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 4" tvg-logo="http://esso.bossna-caffe.com/logos/Bein_4.png" group-title="Sport",Bein Sports 4
-http://cms.bossna-caffe.com:80/live?channelId=375&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BS5HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 5" tvg-logo="http://nextgen-iptv.com/logo/BeinSports5_FR.png" group-title="Sport",Bein Sports 5
-http://cms.bossna-caffe.com:80/live?channelId=464&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BS6HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 6" tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png" group-title="Sport",Bein Sports 6
-http://cms.bossna-caffe.com:80/live?channelId=465&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BS7HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 7" tvg-logo="http://www.liveonlinetv247.info/images/beinsports7.png" group-title="Sport",Bein Sports 7
-http://cms.bossna-caffe.com:80/live?channelId=467&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BS8HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 8" tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png" group-title="Sport",Bein Sports 8
-http://cms.bossna-caffe.com:80/live?channelId=468&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BS9HD" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Bein Sports 9" tvg-logo="http://www.liveonlinetv247.info/images/beinsports9.png" group-title="Sport",Bein Sports 9
-http://cms.bossna-caffe.com:80/live?channelId=469&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="FOXSports1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Sports 1 (Nl)" tvg-logo="http://nextgen-iptv.com/logo/FoxSports1.png" group-title="Sport",FOX Sports 1 (Nl)
-http://s02.bossna-caffe.com:80/live?channelId=461&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="FOXSports2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Sports 2 (Nl)" tvg-logo="http://nextgen-iptv.com/logo/Fox_Sports_2_logo.png" group-title="Sport",FOX Sports 2 (Nl)
-http://s02.bossna-caffe.com:80/live?channelId=462&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="FOXSports3" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="FOX Sports 3 (Nl)" tvg-logo="http://nextgen-iptv.com/logo/Fox_Sports_3.png" group-title="Sport",FOX Sports 3 (Nl)
-http://s02.bossna-caffe.com:80/live?channelId=460&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BTSport1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: BT Sport 1" tvg-logo="http://nextgen-iptv.com/logo/BTSport1_UK.png" group-title="Sport",UK: BT Sport 1
-http://s02.bossna-caffe.com:80/live?channelId=455&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BTSport2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: BT Sport 2" tvg-logo="http://nextgen-iptv.com/logo/BTSport2_UK.png" group-title="Sport",UK: BT Sport 2
-http://s02.bossna-caffe.com:80/live?channelId=456&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="NBA TV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="NBA TV" tvg-logo="http://esso.bossna-caffe.com/logos/nba_tv.png" group-title="Sport",NBA TV
-http://s02.bossna-caffe.com:80/live?channelId=366&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="MotorsTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UK: Motors TV" tvg-logo="http://nextgen-iptv.com/logo/MotorsTV_EU.png" group-title="Sport",UK: Motors TV
-http://s02.bossna-caffe.com:80/live?channelId=471&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="Sport TV 1" tvg-link="" tvg-name="Sport TV 1" tvg-logo="http://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png" group-title="Sport",Sport TV 1
-http://s02.bossna-caffe.com:80/live?channelId=457&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="Sport TV 3" tvg-link="" tvg-name="Sport TV 3" tvg-logo="http://3.bp.blogspot.com/-F4oNbo2SQ9Q/UJaSuEgCS4I/AAAAAAAAL6s/etSeYt_sIog/s1600/sport-time-tv-logo.png" group-title="Sport",Sport TV 3
-http://s02.bossna-caffe.com:80/live?channelId=459&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="BarcaTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Barca TV (Spa)" tvg-logo="http://nextgen-iptv.com/logo/barca%20tv.png" group-title="Sport",Barca TV (Spa)
-http://s02.bossna-caffe.com:80/live?channelId=470&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="RealMadridTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Real Madrid TV (Spa)" tvg-logo="http://nextgen-iptv.com/logo/realmadridtv.png" group-title="Sport",Real Madrid TV (Spa)
-http://cms.bossna-caffe.com:80/live?channelId=361&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-link="http://this-is.bossna-caffe.com/epg/uk" tvg-name="Manchester TV" tvg-logo="http://static.nuuktv.gl/wp-content/uploads/2012/07/kanal4.png" group-title="Sport",Manchester TV
-http://s6.bossna-caffe.com:80/live?channelId=341&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="LIGTV1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Lig TV1 HD" tvg-logo="http://sorgulama.biz.tr/wp-content/uploads/2015/04/ligb.jpeg" group-title="Sport",Lig TV1 HD
-http://video.bossna-caffe.com:80/live?channelId=316&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="" group-title="Sport",TSN 1
-http://s02.bossna-caffe.com:80/live?channelId=1214&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="" group-title="Sport",TSN 2
-http://s02.bossna-caffe.com:80/live?channelId=1215&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="" group-title="Sport",TSN 3
-http://s02.bossna-caffe.com:80/live?channelId=1216&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="" group-title="Sport",TSN 4
-http://s02.bossna-caffe.com:80/live?channelId=1217&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="" group-title="Sport",TSN 5
-http://s02.bossna-caffe.com:80/live?channelId=1218&deviceUser=goro&devicePass=goro&uid=35824
-#EXTINF:-1 tvg-id="Sky Sport Austria" tvg-link="" tvg-name="Sky Sport Austria" tvg-logo="" group-title="Sport",Sky Sport Austria
-http://cms.bossna-caffe.com:80/live?channelId=1219&deviceUser=goro&devicePass=goro&uid=35824
+#EXTINF:-1 tvg-id="S1.ru" tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="",S1
+https://sitv.ru/hls/stv.m3u8
+#EXTINF:-1 tvg-id="Channel12.ru" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="",Channel 12
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-id="Aris24.ru" tvg-logo="https://i.imgur.com/CTFVEAb.png" group-title="",Aris 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-logo="https://i.imgur.com/blAtdkJ.png" group-title="",Arkhyz 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-id="Astrahan24.ru" tvg-logo="https://i.imgur.com/9WcnjQN.png" group-title="",Astrahan 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-id="LenTV24.ru" tvg-logo="https://i.imgur.com/d02uxkB.png" group-title="",LenTV24
+https://dvr-player.smotrim.ru/hls2/lentv24/playlist.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="",Moskva 24
+https://dvr-player.smotrim.ru/hls/moscow_24/playlist.m3u8
+#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="",Nizhniy Novgorod 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:-1 tvg-id="Saratov24.ru" tvg-logo="https://i.imgur.com/Y5G3ET6.png" group-title="",Saratov 24
+https://saratov24.tv/online/playlist.php
+#EXTINF:-1 tvg-id="T24.ru" tvg-logo="https://i.imgur.com/1W6R14o.png" group-title="",T24
+https://tbs01-edge11.itdc.ge/24techno/index.m3u8
+#EXTINF:-1 tvg-id="Vetta24.ru" tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="",Vetta 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="Volgograd24.ru" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="",Volgograd 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="86.ru" tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="",86
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1 tvg-id="AISTTV.ru" tvg-logo="https://i.imgur.com/bcw0s4V.png" group-title="",AIST TV
+http://moobl.ru/hls/Aist_tv_hd.m3u8
+#EXTINF:-1 tvg-id="AbazaTV.ru" tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="",Abaza TV
+http://clients.apsny.camera/tv_abaza_tv/index.m3u8
+#EXTINF:-1 tvg-id="Almaznyykray.ru" tvg-logo="https://i.imgur.com/zErXTdF.png" group-title="",Almaznyy kray
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+#EXTINF:-1 tvg-id="AnekdotTV.ru" tvg-logo="https://i.imgur.com/wKfB79s.png" group-title="",Anekdot TV
+https://ucdn.beetv.kz/btv/live/hls/000001921.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuTV.ru" tvg-logo="https://i.imgur.com/w4ys6zm.png" group-title="",Astrahan.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+#EXTINF:-1 tvg-id="BST.ru" tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="",BST
+http://moobl.ru/hls/BST.m3u8
+#EXTINF:-1 tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="",BelRos
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-id="Bober.ru" tvg-logo="https://i.imgur.com/clWWhB8.png" group-title="",Bober
+http://moobl.ru/hls/Bobior.m3u8
+#EXTINF:-1 tvg-id="CarouselInternational.ru" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="",Carousel International
+http://moobl.ru/hls/Karusel_int.m3u8
+#EXTINF:-1 tvg-id="Dagestan.ru" tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="",Dagestan
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-logo="https://i.imgur.com/ISJzQGP.png" group-title="",Domashnie Zhivotnye
+https://ucdn.beetv.kz/btv/live/hls/000000146.m3u8
+#EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="",Enisey
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurasia.ru" tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="",Eurasia
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 tvg-id="GovoritMoskva.ru" tvg-logo="https://i.imgur.com/z2mxf3E.png" group-title="",Govorit Moskva
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+#EXTINF:-1 tvg-id="HHQ.ru" tvg-logo="https://i.imgur.com/P2G62xe.png" group-title="",HHQ
+http://moobl.ru/hls/HHQ_hd.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="",Istoriya
+http://moobl.ru/hls/Istoriya.m3u8
+#EXTINF:-1 tvg-id="KapitanFantastika.ru" tvg-logo="https://i.imgur.com/K3PSHiT.png" group-title="",Kapitan Fantastika
+https://ucdn.beetv.kz/btv/live/hls/000001474.m3u8
+#EXTINF:-1 tvg-id="KurajTV.ru" tvg-logo="https://i.imgur.com/hZXBD9F.png" group-title="",Kuraj-TV
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-id="Millet.ru" tvg-logo="https://i.imgur.com/hUjLRLy.png" group-title="",Millet
+https://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" group-title="",Mir Belogorya
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="MoskvaDoveriye.ru" tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="",Moskva. Doveriye
+http://moobl.ru/hls/Moskva_doveriye.m3u8
+#EXTINF:-1 tvg-id="Muzhskoy.ru" tvg-logo="https://i.imgur.com/xyztpBf.png" group-title="",Muzhskoy
+https://ucdn.beetv.kz/btv/live/hls/000000286.m3u8
+#EXTINF:-1 tvg-id="NST.ru" tvg-logo="https://i.imgur.com/uv2yxa5.png" group-title="",NST
+https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
+#EXTINF:-1 tvg-id="NTM.ru" tvg-logo="https://i.imgur.com/AH50pGT.png" group-title="",NTM
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NTS.ru" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="",NTS
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVLaw.ru" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="",NTV Law
+http://moobl.ru/hls/NTV_pravo.m3u8
+#EXTINF:-1 tvg-id="NTVMir.ru" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="",NTV Mir
+http://moobl.ru/hls/NTV_mir.m3u8
+#EXTINF:-1 tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="",NVK Sakha
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Nauka
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:-1 tvg-id="Neizvestnayaplaneta.ru" tvg-logo="https://i.imgur.com/SBF8WXi.png" group-title="",Neizvestnaya planeta
+http://moobl.ru/hls/Neizvestnaya_Rossiya.m3u8
+#EXTINF:-1 tvg-id="NikaTV.ru" tvg-logo="https://i.imgur.com/dccsFAu.png" group-title="",Nika TV
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OTR.ru" tvg-logo="https://i.imgur.com/VaWlnjZ.png" group-title="",OTR
+http://moobl.ru/hls/OTR.m3u8
+#EXTINF:-1 tvg-id="OceanTV.ru" tvg-logo="https://i.imgur.com/zswzDZS.png" group-title="",Ocean-TV
+http://moobl.ru/hls/Ocean_tv.m3u8
+#EXTINF:-1 tvg-id="OplotTV.ru" tvg-logo="https://i.imgur.com/RvUkId2.png" group-title="",Oplot TV
+http://moobl.ru/hls/Oplot_1_hd.m3u8
+#EXTINF:-1 tvg-id="Oruzhie.ru" tvg-logo="https://i.imgur.com/lfJQJqa.png" group-title="",Oruzhie
+http://moobl.ru/hls/Orujie.m3u8
+#EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="https://i.imgur.com/N1Ze5IE.png" group-title="" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Pervyy Kosmicheskiy
+http://ott-cdn.ucom.am/s44/index.m3u8
+#EXTINF:-1 tvg-id="PervyyTulskiy.ru" tvg-logo="https://i.imgur.com/QdKKHXb.png" group-title="",Pervyy Tulskiy
+http://5.164.24.83/tula/1tv_low/index.m3u8
+#EXTINF:-1 tvg-id="PilotFM.ru" tvg-logo="https://i.imgur.com/SdudhuW.png" group-title="",Pilot FM
+https://pilotfm.ru/cam/hls/pilothd.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru" tvg-logo="https://i.imgur.com/4KiYSln.png" group-title="",Pobeda
+http://moobl.ru/hls/Pobeda.m3u8
+#EXTINF:-1 tvg-id="Priklyucheniya.ru" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="",Priklyucheniya
+http://europe3.livetv.az/russia/priklyucheniya/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima.ru" tvg-logo="https://i.imgur.com/33XGMch.png" group-title="",Prima
+http://moobl.ru/hls/Prima.m3u8
+#EXTINF:-1 tvg-id="ProLyubov.ru" tvg-logo="https://i.imgur.com/QpIGAT0.png" group-title="",Pro Lyubov
+http://moobl.ru/hls/Pro_lyubov_hd.m3u8
+#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-logo="https://i.imgur.com/JrOuqJy.png" group-title="",Prodvizhenie
+http://moobl.ru/hls/Prodvizhenie.m3u8
+#EXTINF:-1 tvg-id="Prosveshchenie.ru" tvg-logo="https://i.imgur.com/uppFhhq.png" group-title="",Prosveshchenie
+http://moobl.ru/hls/Prosveschenie.m3u8
+#EXTINF:-1 tvg-id="Psikhologiya.ru" tvg-logo="https://i.imgur.com/GsfedKS.png" group-title="",Psikhologiya
+http://moobl.ru/hls/Psixologia.m3u8
+#EXTINF:-1 tvg-id="Rodnoykanal.ru" tvg-logo="https://i.imgur.com/JqydEYN.png" group-title="",Rodnoy kanal
+http://moobl.ru/hls/Rodnoy_kanal.m3u8
+#EXTINF:-1 tvg-id="RostovPapa.ru" tvg-logo="https://i.imgur.com/2JYkoSa.png" group-title="",Rostov-Papa
+http://moobl.ru/hls/Rostov_papa_hd.m3u8
+#EXTINF:-1 tvg-id="RusskiySever.ru" tvg-logo="https://i.imgur.com/BxAyQTx.png" group-title="",Russkiy Sever
+http://185.186.142.16/streams.rs.m3u8
+#EXTINF:-1 tvg-id="STSInternational.ru" tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="",STS International
+http://moobl.ru/hls/STS_int.m3u8
+#EXTINF:-1 tvg-id="Salyam.ru" tvg-logo="https://i.imgur.com/FfULLr1.png" group-title="",Salyam
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-id="SamaraGIS.ru" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="",Samara-GIS
+http://45.67.57.9:8080/new/new/playlist.m3u8
+#EXTINF:-1 tvg-id="SanktPeterburg.ru" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="",Sankt-Peterburg
+https://dvr-player.smotrim.ru/hls2/ext_spbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Sarafan.ru" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="",Sarafan
+http://moobl.ru/hls/Sarafan.m3u8
+#EXTINF:-1 tvg-id="SelengaTV.ru" tvg-logo="https://i.imgur.com/pKUtF4S.png" group-title="",Selenga-TV
+http://90.188.37.86/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Sever.ru" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="",Sever
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" tvg-logo="https://i.imgur.com/0us6l04.png" group-title="",Shchyolkovskoe TV
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 tvg-id="SolovyovLive.ru" tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="",Solovyov Live
+http://moobl.ru/hls/Soloviev_live.m3u8
+#EXTINF:-1 tvg-id="Subbota.ru" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="",Subbota!
+https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-logo="https://i.imgur.com/3cP2fmX.png" group-title="",Svoyo TV
+http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
+#EXTINF:-1 tvg-id="TKR.ru" tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="",TKR
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru" tvg-logo="https://i.imgur.com/fIkd01t.png" group-title="" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",TV Centr
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:-1 tvg-id="TVRain.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="",TV Rain
+https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK.ru" tvg-logo="https://i.imgur.com/rW1BeJC.png" group-title="",TVK
+https://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:-1 tvg-id="Telplus.ru" tvg-logo="https://i.imgur.com/1zbcZ3p.png" group-title="",Telplus
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
+#EXTINF:-1 tvg-id="Tivikom.ru" tvg-logo="https://i.imgur.com/qcJ4EBl.png" group-title="",Tivikom
+http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
+#EXTINF:-1 tvg-id="TochkaTV.ru" tvg-logo="https://i.imgur.com/yyNR5jG.png" group-title="",Tochka TV
+http://moobl.ru/hls/Tochka_tv.m3u8
+#EXTINF:-1 tvg-id="Unikum.ru" tvg-logo="https://i.imgur.com/kSJZjDL.png" group-title="",Unikum
+http://moobl.ru/hls/Unikum.m3u8
+#EXTINF:-1 tvg-id="UniverTV.ru" tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="",Univer TV
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Usadba.ru" tvg-logo="https://i.imgur.com/mf13haG.png" group-title="",Usadba
+http://moobl.ru/hls/Usadba.m3u8
+#EXTINF:-1 tvg-id="Volga.ru" tvg-logo="https://i.imgur.com/xHs1pr1.png" group-title="",Volga
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-id="Vremya.ru" tvg-logo="https://i.imgur.com/jZlj3ga.png" group-title="",Vremya
+https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
+#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-logo="https://i.imgur.com/RoYd5pz.png" group-title="",Zagorodnaya Zhizn
+http://moobl.ru/hls/Zagorodnaya_zhizn.m3u8
+#EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-logo="https://i.imgur.com/YGqO3Us.png" group-title="",Zagorodnyy
+http://moobl.ru/hls/Zagorodniy.m3u8
+#EXTINF:-1 tvg-id="Zhivayapriroda.ru" tvg-logo="https://i.imgur.com/9lHQPdN.png" group-title="",Zhivaya priroda
+https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
+#EXTINF:-1 tvg-id="ZooTV.ru" tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="",Zoo TV
+http://moobl.ru/hls/Zoo_tv.m3u8
+#EXTINF:-1 tvg-id="Zoopark.ru" tvg-logo="https://i.imgur.com/IO5jegK.png" group-title="",Zoopark
+http://moobl.ru/hls/Zoopark.m3u8
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="",Zvezda Plus
+http://moobl.ru/hls/Zvezda_plus.m3u8
+#EXTINF:-1 tvg-id="Pro100TV.ru" tvg-logo="https://i.imgur.com/YfQEflM.png" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
+http://moobl.ru/hls/PRO100.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network
+http://europe3.livetv.az/russia/cartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="Multimania.ru" tvg-logo="https://i.imgur.com/abh8ZBA.png" group-title="Animation;Kids",Multimania
+http://moobl.ru/hls/Multimania.m3u8
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-logo="https://i.imgur.com/rec9akk.png" group-title="Animation;Kids",Solnce
+http://moobl.ru/hls/Solnce.m3u8
+#EXTINF:-1 tvg-id="FAN.ru" tvg-logo="https://i.imgur.com/mDeTbaF.png" group-title="Animation;Movies",FAN
+http://94.230.240.17:8080/fan/index.m3u8
+#EXTINF:-1 tvg-id="Avto24.ru" tvg-logo="https://i.imgur.com/GXSXmN2.png" group-title="Auto",Avto24
+https://tbs01-edge11.itdc.ge/auto24/index.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-logo="https://i.imgur.com/sVc8cFt.png" group-title="Auto",Auto Plus
+http://moobl.ru/hls/Avto_plus.m3u8
+#EXTINF:-1 tvg-id="Drive.ru" tvg-logo="https://i.imgur.com/FnuwfSC.png" group-title="Auto",Drive
+http://moobl.ru/hls/Drive.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Business",RBK-TV
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="Classic",Nostalgia
+http://moobl.ru/hls/Nostalgia.m3u8
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Classic;Music",BRIDGE Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 tvg-id="KomediynoeHD.ru" tvg-logo="https://i.imgur.com/cEKe8XC.png" group-title="Comedy",Komediynoe HD
+http://moobl.ru/hls/Komedijnoe_hd.m3u8
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="Comedy",viju+ Comedy
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="EdaPremiumInternational.ru" tvg-logo="https://i.imgur.com/9xP8ucM.png" group-title="Cooking",Eda Premium International
+https://ucdn.beetv.kz/btv/live/hls/000000588.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="https://i.imgur.com/7jxZnuS.png" group-title="Cooking",Kukhnya TV
+http://moobl.ru/hls/Kuhnya.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-logo="https://i.imgur.com/1H3h1HL.png" group-title="Cooking",Telecafe
+http://moobl.ru/hls/Telekafe.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png" group-title="Culture",Russia-K
+http://moobl.ru/hls/Russia_K.m3u8
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-logo="https://i.imgur.com/NfnAiTR.png" group-title="Documentary",365 days TV
+http://moobl.ru/hls/365_dnej.m3u8
+#EXTINF:-1 tvg-id="Arsenal.ru" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="Documentary" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Arsenal
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 tvg-id="HDL.ru" tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="Documentary",HDL
+https://tbs01-edge11.itdc.ge/hdlife/index.m3u8
+#EXTINF:-1 tvg-id="NanoHD.ru" tvg-logo="https://i.imgur.com/8xdU3Ry.png" group-title="Documentary",Nano HD
+http://moobl.ru/hls/Nano_tv_hd.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic
+http://moobl.ru/hls/National_Geographic.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild
+http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryEnglish.ru" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",RT Documentary English
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",RT Documentary Russian
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-logo="https://i.imgur.com/ZxUjCpF.png" group-title="Documentary",TERRA
+http://moobl.ru/hls/Terra.m3u8
+#EXTINF:-1 tvg-id="TopSecret.ru" tvg-logo="https://i.imgur.com/HM4xy4G.png" group-title="Documentary",Top Secret
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="Documentary",viju Explore
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="Documentary",viju Nature
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPlanet.ru" tvg-logo="https://i.imgur.com/9Weqdsk.png" group-title="Documentary",viju+ Planet
+http://moobl.ru/hls/Viju_plus_Planet.m3u8
+#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="Education" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",English Class
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-logo="https://i.imgur.com/PmD17UQ.png" group-title="Education",Kto est kto
+http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="Education;Lifestyle",Doctor
+http://moobl.ru/hls/Doktor.m3u8
+#EXTINF:-1 tvg-id="TV3.ru" tvg-logo="https://i.imgur.com/JLAvq8O.png" group-title="Entertainment",TV-3
+http://91.220.135.165:81/15/index.m3u8
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",TNT4
+http://ott-cdn.ucom.am/s100/index.m3u8
+#EXTINF:-1 tvg-id="7tv.ru" tvg-logo="https://i.imgur.com/Wuy9Vtn.png" group-title="Entertainment",7tv
+http://moobl.ru/hls/7tv.m3u8
+#EXTINF:-1 tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment",2x2
+https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Che.ru" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="Entertainment",Che!
+http://moobl.ru/hls/Che.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Entertainment",Domashniy
+http://moobl.ru/hls/Domashniy.m3u8
+#EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-logo="https://i.imgur.com/nf7GRXb.png" group-title="Entertainment",Domashniy International
+http://moobl.ru/hls/Domashny_international.m3u8
+#EXTINF:-1 tvg-id="Friday.ru" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Entertainment",Friday!
+http://europe3.livetv.az/russia/pyatnica/playlist.m3u8
+#EXTINF:-1 tvg-id="FridayInternational.ru" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Entertainment",Friday! International
+http://moobl.ru/hls/Pyatnizza_international.m3u8
+#EXTINF:-1 tvg-id="KVNTV.ru" tvg-logo="https://i.imgur.com/Vw3LFLX.png" group-title="Entertainment",KVN TV
+http://moobl.ru/hls/KVN.m3u8
+#EXTINF:-1 tvg-id="MTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PeretzInternational.ru" tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Entertainment",Peretz International
+http://moobl.ru/hls/Perec_int.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-logo="https://i.imgur.com/mxsBZaC.png" group-title="Entertainment",Poehali!
+http://moobl.ru/hls/Poexali.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Entertainment",TNT
+http://moobl.ru/hls/TNT.m3u8
+#EXTINF:-1 tvg-id="TNTHD.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Entertainment",TNT HD
+http://moobl.ru/hls/TNT_hd.m3u8
+#EXTINF:-1 tvg-id="VoprosyiOtvety.ru" tvg-logo="https://i.imgur.com/yjETxk1.png" group-title="Entertainment",Voprosy i Otvety
+https://ucdn.beetv.kz/btv/live/hls/000000195.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family",STS
+http://moobl.ru/hls/STS.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="Family",STS Love
+http://31.148.48.15:80/STS_Love/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General",Russia-1
+http://europe3.livetv.az/russia/rossiya_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia1HD.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General",Russia-1 HD
+http://moobl.ru/hls/Russia_1_hd.m3u8
+#EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="General",Channel 5
+http://europe3.livetv.az/russia/5kanal/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel16.ru" tvg-logo="https://i.imgur.com/7tNDKHe.png" group-title="General",Channel-16
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="General",360°
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Channel One
+http://europe3.livetv.az/russia/pervyj_kanal/playlist.m3u8
+#EXTINF:-1 tvg-id="Gorodskoytelekanal.ru" tvg-logo="https://i.imgur.com/zMNJfoV.png" group-title="General",Gorodskoy telekanal
+https://www.gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-id="GuberniaSamara.ru" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="General",Gubernia Samara
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru" tvg-logo="https://i.imgur.com/gCmCRfe.png" group-title="General",LDPR TV
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="General",Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="General",NTV
+http://moobl.ru/hls/NTV.m3u8
+#EXTINF:-1 tvg-id="NTVHD.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="General",NTV HD
+http://moobl.ru/hls/NTV_hd.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="General",REN TV
+http://moobl.ru/hls/Rentv.m3u8
+#EXTINF:-1 tvg-id="RENTVHD.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="General",REN TV HD
+http://moobl.ru/hls/Rentv_HD.m3u8
+#EXTINF:-1 tvg-id="RENTVInternational.ru" tvg-logo="https://i.imgur.com/gBjk9oF.png" group-title="General",REN TV International
+http://moobl.ru/hls/Rentv_international.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-logo="https://i.imgur.com/yOnSc4O.png" group-title="General",RTR-Planeta
+https://dvr-player.smotrim.ru/live/smil:rtrp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",RTR-Planeta Asia
+https://dvr-player.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRPlanetaCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General",RTR-Planeta CIS
+https://dvr-player.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General",RTR-Planeta Europe
+http://moobl.ru/hls/RTR_Planeta_Eu.m3u8
+#EXTINF:-1 tvg-id="RTVi.ru" tvg-logo="https://i.imgur.com/1AEhXyS.png" group-title="General",RTVi
+https://ucdn.beetv.kz/btv/live/hls/000000039.m3u8
+#EXTINF:-1 tvg-id="TVBRICSRussian.ru" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS Russian
+http://moobl.ru/hls/TV_brics_hd.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Zvezda
+http://moobl.ru/hls/Zvezda.m3u8
+#EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="Kids",Ani
+http://moobl.ru/hls/Ani.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="Kids",Carousel
+http://moobl.ru/hls/Karusel.m3u8
+#EXTINF:-1 tvg-id="Detskimir.ru" tvg-logo="https://i.imgur.com/bBVEP0S.png" group-title="Kids",Detski mir
+http://moobl.ru/hls/Detsky_mir.m3u8
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-logo="https://i.imgur.com/lbViDuC.png" group-title="Kids",Gulli Girl
+http://europe3.livetv.az/russia/gulli_girl/playlist.m3u8
+#EXTINF:-1 tvg-id="Leva.ru" tvg-logo="https://i.imgur.com/lQzgmpz.png" group-title="Kids",Leva
+https://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 tvg-id="Mama.ru" tvg-logo="https://i.imgur.com/kmMIjjf.png" group-title="Kids",Mama
+http://moobl.ru/hls/Mama.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" group-title="Kids",Mult
+http://europe3.livetv.az/russia/mult/playlist.m3u8
+#EXTINF:-1 tvg-id="MultHD.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" group-title="Kids",Mult HD
+http://moobl.ru/hls/Mult_hd.m3u8
+#EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-logo="https://i.imgur.com/SYt6BZP.png" group-title="Kids",Mult i muzyka
+http://moobl.ru/hls/Multimuzyka.m3u8
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="Kids",Multilandia
+http://moobl.ru/hls/Multilandiya.m3u8
+#EXTINF:-1 tvg-id="NickJr.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr.
+https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
+https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon CIS
+http://europe3.livetv.az/russia/nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nicktoons CIS
+https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-id="O.ru" tvg-logo="https://i.imgur.com/pDc665V.png" group-title="Kids",O!
+https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
+#EXTINF:-1 tvg-id="RadostMoya.ru" tvg-logo="https://i.imgur.com/B5FA62o.png" group-title="Kids",Radost Moya
+http://moobl.ru/hls/Radost_moya.m3u8
+#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-logo="https://i.imgur.com/QlncxbD.png" group-title="Kids",Ryzhiy
+http://moobl.ru/hls/Ryzhy.m3u8
+#EXTINF:-1 tvg-id="STSkids.ru" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Kids",STS kids
+http://moobl.ru/hls/STS_Kids.m3u8
+#EXTINF:-1 tvg-id="SuperGeroi.ru" tvg-logo="https://i.imgur.com/c0zZUR1.png" group-title="Kids",SuperGeroi
+http://moobl.ru/hls/SuperGeroi.m3u8
+#EXTINF:-1 tvg-id="Tamyr.ru" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="Kids",Tamyr
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-logo="https://i.imgur.com/QCOUJ30.png" group-title="Kids",TiJi
+http://europe3.livetv.az/russia/tiji/playlist.m3u8
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-logo="https://i.imgur.com/jNJkLHl.png" group-title="Kids",V gostyakh u skazki
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 tvg-id="BabyTime.ru" tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="Kids;Music",Baby Time
+https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru" tvg-logo="https://i.imgur.com/JvlO3PU.png" group-title="Legislative",Duma TV
+http://moobl.ru/hls/Duma_tv.m3u8
+#EXTINF:-1 tvg-id="FashionTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",FashionTV
+http://ott-cdn.ucom.am/s30/index.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="Lifestyle",NTV Style
+http://moobl.ru/hls/NTV_style.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannel.ru" tvg-logo="https://i.imgur.com/ewH0rNd.png" group-title="Lifestyle" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160",World Fashion Channel
+https://live-3.otcnet.ru/wfcrusmulti/index.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/4unUuGy.png" group-title="Lifestyle" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160",World Fashion Channel International
+https://live-3.otcnet.ru/wfcenmulti/index.m3u8
+#EXTINF:-1 tvg-id="ZdorovoeTV.ru" tvg-logo="https://i.imgur.com/jedtE5l.png" group-title="Lifestyle",Zdorovoe TV
+https://ucdn.beetv.kz/btv/live/hls/000000057.m3u8
+#EXTINF:-1 tvg-id="Zhivi.ru" tvg-logo="https://i.imgur.com/LPqySGk.png" group-title="Lifestyle",Zhivi!
+http://moobl.ru/hls/Jivi.m3u8
+#EXTINF:-1 tvg-id="ZhiviHD.ru" tvg-logo="https://i.imgur.com/LPqySGk.png" group-title="Lifestyle",Zhivi! HD
+http://moobl.ru/hls/Jivi_hd.m3u8
+#EXTINF:-1 tvg-id="Kino24.ru" tvg-logo="https://i.imgur.com/QAdDARF.png" group-title="Movies",Kino 24
+http://moobl.ru/hls/Kino_24.m3u8
+#EXTINF:-1 tvg-id="Channel43.ru" tvg-logo="https://i.imgur.com/hiN166x.png" group-title="Movies",Channel 43
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-logo="https://i.imgur.com/Meak2y4.png" group-title="Movies",viju TV1000 russkoe
+http://82.209.197.187:8080/udp/239.0.100.82:1234
+#EXTINF:-1 tvg-id="BackusTVDark.ru" tvg-logo="https://i.imgur.com/ySYKZ0Z.png" group-title="Movies",BackusTV Dark
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 tvg-id="BackusTVOriginal.ru" tvg-logo="https://i.imgur.com/4pCmSsU.png" group-title="Movies",BackusTV Original
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-id="Bollywood.ru" tvg-logo="https://i.imgur.com/YLQRnXt.png" group-title="Movies",Bollywood
+http://ucdn.beetv.kz/btv/live/hls/000001419.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="Movies",Cinema
+http://176.74.80.162:8099/Cinema/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Movies",Dom kino
+http://moobl.ru/hls/Dom_kino.m3u8
+#EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="Movies",Dom kino Premium
+http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-id="DomkinoPremiumHD.ru" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="Movies",Dom kino Premium HD
+http://moobl.ru/hls/Dom_kino_premium_hd.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Movies",Dorama
+http://moobl.ru/hls/Dorama.m3u8
+#EXTINF:-1 tvg-id="DoramaHD.ru" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Movies",Dorama HD
+http://moobl.ru/hls/Dorama_hd.m3u8
+#EXTINF:-1 tvg-id="Evrokino.ru" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="Movies",Evrokino
+http://176.74.80.162:8099/EuroKino/index.m3u8
+#EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="Movies",Feniks plus Kino
+http://82.209.197.187:8080/udp/239.0.100.101:1234
+#EXTINF:-1 tvg-id="FilmBox.ru" tvg-logo="https://i.imgur.com/cXatYqt.png" group-title="Movies",FilmBox
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1 tvg-id="FlixSnip.ru" tvg-logo="https://i.imgur.com/UVKX2rd.png" group-title="Movies",FlixSnip
+https://ucdn.beetv.kz/btv/live/hls/000004466.m3u8
+#EXTINF:-1 tvg-id="Fox.ru" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Movies",Fox
+http://moobl.ru/hls/Fox.m3u8
+#EXTINF:-1 tvg-id="HitHD.ru" tvg-logo="https://i.imgur.com/jl3MNPe.png" group-title="Movies",Hit HD
+http://moobl.ru/hls/Hit_hd.m3u8
+#EXTINF:-1 tvg-id="Hollywood.ru" tvg-logo="https://i.imgur.com/1j7cT2I.png" group-title="Movies",Hollywood
+http://stream01.vnet.am/ParamountChannel/mono.m3u8
+#EXTINF:-1 tvg-id="HollywoodHD.ru" tvg-logo="https://i.imgur.com/7fBRrTL.png" group-title="Movies",Hollywood HD
+http://moobl.ru/hls/Hollywood_hd.m3u8
+#EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-logo="https://i.imgur.com/9GvuHQ5.png" group-title="Movies",Illusion+
+http://91.220.135.165:81/51/index.m3u8
+#EXTINF:-1 tvg-id="India.ru" tvg-logo="https://i.imgur.com/xDVcDOc.png" group-title="Movies",India
+http://moobl.ru/hls/India.m3u8
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-logo="https://i.imgur.com/LL8GyCh.png" group-title="Movies",Indiyskoye Kino
+http://moobl.ru/hls/Indiyskoye_kino.m3u8
+#EXTINF:-1 tvg-id="Kineko.ru" tvg-logo="https://i.imgur.com/Otfvlmf.png" group-title="Movies",Kineko
+http://moobl.ru/hls/Kineko.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-logo="https://i.imgur.com/sMpamNO.png" group-title="Movies",Kino TV
+http://91.220.135.165:81/55/index.m3u8
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="Movies",Kinohit
+http://moobl.ru/hls/Kinohit.m3u8
+#EXTINF:-1 tvg-id="Kinomix.ru" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="Movies",Kinomix
+http://moobl.ru/hls/Kinomix.m3u8
+#EXTINF:-1 tvg-id="KinomixHD.ru" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="Movies",Kinomix HD
+http://moobl.ru/hls/Kinomix_HD.m3u8
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="Movies",Kinopokaz
+http://31.148.48.15:80/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-logo="https://i.imgur.com/s0UYT8T.png" group-title="Movies",Kinopremyera
+https://tbs01-edge11.itdc.ge/kinopremyerahd/index.m3u8
+#EXTINF:-1 tvg-id="KinopremyeraHD.ru" tvg-logo="https://i.imgur.com/s0UYT8T.png" group-title="Movies",Kinopremyera HD
+http://45.159.74.13:80/Kinopremera/index.m3u8
+#EXTINF:-1 tvg-id="Kinosemja.ru" tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Movies",Kinosemja
+http://moobl.ru/hls/Kinosemya.m3u8
+#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="Movies",Kinoseriya
+http://moobl.ru/hls/Kinoseria.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="Movies",Kinosvidanie
+http://moobl.ru/hls/Kinosvidanie.m3u8
+#EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-logo="https://i.imgur.com/mAcAAQF.png" group-title="Movies",Kinouzhas
+http://moobl.ru/hls/Kinouzhas.m3u8
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-logo="https://i.imgur.com/95Y8jb6.png" group-title="Movies",Mosfilm Gold Collection
+http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-logo="https://i.imgur.com/8RN3tQC.png" group-title="Movies",Muzhskoe kino
+http://moobl.ru/hls/Muzhskoe_kino.m3u8
+#EXTINF:-1 tvg-id="MuzhskoekinoHD.ru" tvg-logo="https://i.imgur.com/8RN3tQC.png" group-title="Movies",Muzhskoe kino HD
+http://moobl.ru/hls/Muzhskoe_kino_hd.m3u8
+#EXTINF:-1 tvg-id="NasheLubimoeKino.ru" tvg-logo="https://i.imgur.com/iKPfM5K.png" group-title="Movies",Nashe Lubimoe Kino
+https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-logo="https://i.imgur.com/IOxIsPj.png" group-title="Movies",Nashe Novoe Kino
+http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
+#EXTINF:-1 tvg-id="NashemuzhskoeHD.ru" tvg-logo="https://i.imgur.com/QRWKpmb.png" group-title="Movies",Nashe muzhskoe HD
+http://moobl.ru/hls/Nashe_muzhskoe_hd.m3u8
+#EXTINF:-1 tvg-id="PremialnoeHD.ru" tvg-logo="https://i.imgur.com/ck4aLBP.png" group-title="Movies",Premialnoe HD
+http://213.172.73.133:8081/nimble_live/9008_%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-logo="https://i.imgur.com/H70LxoZ.png" group-title="Movies",Rodnoe Kino
+http://moobl.ru/hls/Rodnoe_kino.m3u8
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" group-title="Movies",Russkiy Bestseller
+http://moobl.ru/hls/Russkiy_Bestseller.m3u8
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru" tvg-logo="https://i.imgur.com/H3qhN8S.png" group-title="Movies",Russkiy Detektiv
+http://moobl.ru/hls/Russkiy_detektiv.m3u8
+#EXTINF:-1 tvg-id="RusskiyIllusion.ru" tvg-logo="https://i.imgur.com/RlsqFN8.png" group-title="Movies",Russkiy Illusion
+http://moobl.ru/hls/Russky_illuzion.m3u8
+#EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Movies",Russkiy roman
+http://moobl.ru/hls/Russkiy_roman.m3u8
+#EXTINF:-1 tvg-id="STARTAir.ru" tvg-logo="https://i.imgur.com/4bACa7x.png" group-title="Movies",START Air
+http://moobl.ru/hls/START_Air_HD.m3u8
+#EXTINF:-1 tvg-id="STARTWorld.ru" tvg-logo="https://i.imgur.com/TXtY5eM.png" group-title="Movies",START World
+http://moobl.ru/hls/START_World_HD.m3u8
+#EXTINF:-1 tvg-id="STRK.ru" tvg-logo="https://i.imgur.com/mLZDuIF.png" group-title="Movies",STRK
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="ShokiruyushcheeHD.ru" tvg-logo="https://i.imgur.com/UG63hZ0.png" group-title="Movies",Shokiruyushchee HD
+http://moobl.ru/hls/Shokiruyushcheye_HD.m3u8
+#EXTINF:-1 tvg-id="StarFamily.ru" tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="Movies",Star Family
+http://89.254.128.5:22280/star_family_hd/video.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="Movies",viju+ Megahit
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="Movies",viju+ Premiere
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="Movies;Series",Amedia Hit
+http://moobl.ru/hls/Amedia_hit.m3u8
+#EXTINF:-1 tvg-id="AmediaHitHD.ru" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="Movies;Series",Amedia Hit HD
+http://moobl.ru/hls/Amedia_hit_hd.m3u8
+#EXTINF:-1 tvg-id="AmediaPremiumHD.ru" tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="Movies;Series",Amedia Premium HD
+http://moobl.ru/hls/Amedia_Premium_hd.m3u8
+#EXTINF:-1 tvg-id="BRIDGE.ru" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="Music",BRIDGE
+http://moobl.ru/hls/Bridge_tv.m3u8
+#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Music",BRIDGE Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="Music",BRIDGE Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="Music",BRIDGE Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 tvg-id="BRIDGERussianHit.ru" tvg-logo="https://i.imgur.com/f9xdIlN.png" group-title="Music",BRIDGE Russian Hit
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 tvg-id="BRIDGESchlager.ru" tvg-logo="https://i.imgur.com/a9DXkMN.png" group-title="Music",BRIDGE Schlager
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="Music",Europa Plus TV
+http://europe3.livetv.az/russia/evropaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="LaMinorTV.ru" tvg-logo="https://i.imgur.com/RH6hTWG.png" group-title="Music",La-Minor TV
+http://moobl.ru/hls/Liaminortv.m3u8
+#EXTINF:-1 tvg-id="MCMTop.ru" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music",MCM Top
+http://moobl.ru/hls/MCM_Top.m3u8
+#EXTINF:-1 tvg-id="MusicBoxGold.ru" tvg-logo="https://i.imgur.com/3arWh0k.png" group-title="Music",MusicBox Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="Music",Muz-TV
+http://moobl.ru/hls/MuzTV.m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Music",Muzyka Pervogo
+http://moobl.ru/hls/Muzyka_pervogo.m3u8
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Music",RU.TV
+http://moobl.ru/hls/RU_tv.m3u8
+#EXTINF:-1 tvg-id="RadioHit.ru" tvg-logo="https://i.imgur.com/5xKqV1s.png" group-title="Music",Radio Hit
+http://lova.me/hls/hit.m3u8
+#EXTINF:-1 tvg-id="RadioShanson.ru" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="Music",Radio Shanson
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="RussianMusicBox.ru" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" group-title="Music",Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Music",SONGTV Russia
+http://moobl.ru/hls/Song_tv_russia_hd.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-logo="https://i.imgur.com/NBWyJJQ.png" group-title="Music",Shanson TV
+http://europe3.livetv.az/russia/shanson/playlist.m3u8
+#EXTINF:-1 tvg-id="StranaFM.ru" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="Music",Strana FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="Music",TNT Music
+http://moobl.ru/hls/TNT_Music.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="Music",VIVA Russia
+http://autopilot.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 tvg-id="ZharPtitsa.ru" tvg-logo="https://i.imgur.com/19R470V.png" group-title="Music",Zhar Ptitsa
+http://moobl.ru/hls/Zhar_ptica.m3u8
+#EXTINF:-1 tvg-id="Zhara.ru" tvg-logo="https://i.imgur.com/41K9Y2s.png" group-title="Music",Zhara
+http://moobl.ru/hls/Zhara.m3u8
+#EXTINF:-1 tvg-id="MuzSoyuz.ru" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Music;Religious",Muz Soyuz
+http://moobl.ru/hls/Muzsoyuz.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="News",Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir24HD.ru" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="News",Mir 24 HD
+http://moobl.ru/hls/MIR_24_hd.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="News",Russia-24
+http://europe3.livetv.az/russia/rossiya24/playlist.m3u8
+#EXTINF:-1 tvg-id="360News.ru" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="News",360° News
+http://moobl.ru/hls/360_news.m3u8
+#EXTINF:-1 tvg-id="Izvestia.ru" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="News",Izvestia
+http://moobl.ru/hls/Izvestia.m3u8
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="News",RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="Dialogiorybalke.ru" tvg-logo="https://i.imgur.com/OuBtnGU.png" group-title="Outdoor",Dialogi o rybalke
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-logo="https://i.imgur.com/VDXDiPC.png" group-title="Outdoor",Dikij
+http://moobl.ru/hls/Dikiy.m3u8
+#EXTINF:-1 tvg-id="Konniymir.ru" tvg-logo="https://i.imgur.com/X6otbK0.png" group-title="Outdoor",Konniy mir
+http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="Outdoor",Moya Planeta
+http://moobl.ru/hls/Moya_planeta.m3u8
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="Outdoor" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Ohotnik i rybolov
+http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-logo="https://i.imgur.com/nZwBaeW.png" group-title="Outdoor",Okhota i rybalka
+https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
+#EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="Religious",3ABN Russia
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 tvg-id="NebesaTV7.ru" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="Religious",Nebesa TV7
+https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HuzurTV.ru" tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="Religious",Huzur TV
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soyuz.ru" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="Religious",Soyuz
+http://moobl.ru/hls/Soyuz.m3u8
+#EXTINF:-1 tvg-id="Spas.ru" tvg-logo="https://i.imgur.com/yY39nMg.png" group-title="Religious",Spas
+http://moobl.ru/hls/Spas.m3u8
+#EXTINF:-1 tvg-id="scifi.ru" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="Science",.sci-fi
+http://moobl.ru/hls/SciFi.m3u8
+#EXTINF:-1 tvg-id="A1.ru" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="Series",A1
+http://31.148.48.15:80/A1/index.m3u8
+#EXTINF:-1 tvg-id="A2.ru" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="Series",A2
+http://europe3.livetv.az/russia/amedia2/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxLife.ru" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="Series",Fox Life
+http://moobl.ru/hls/Fox_Life.m3u8
+#EXTINF:-1 tvg-id="MirSeriala.ru" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="Series",Mir Seriala
+http://moobl.ru/hls/Mir_seriala.m3u8
+#EXTINF:-1 tvg-id="NTVSeries.ru" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="Series",NTV Series
+http://moobl.ru/hls/NTV_serial.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="Series",NTV-Hit
+http://moobl.ru/hls/NTV_hit.m3u8
+#EXTINF:-1 tvg-id="Saphire.ru" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="Series",Saphire
+http://moobl.ru/hls/Sapfir.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Series",viju+ Serial
+http://94.229.250.73:8008/play/a003
+#EXTINF:-1 tvg-id="Leomax24.ru" tvg-logo="https://i.imgur.com/qU9ohQu.png" group-title="Shop",Leomax 24
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1 tvg-id="Magnat.ru" tvg-logo="https://i.imgur.com/r485aZL.png" group-title="Shop" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Magnat
+http://ott-cdn.ucom.am/s51/index.m3u8
+#EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-logo="https://i.imgur.com/EMmGnjV.png" group-title="Shop",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-logo="https://i.imgur.com/IcWtXCZ.png" group-title="Shop",Yuvelirochka
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-logo="https://i.imgur.com/8ANUZAu.png" group-title="Sports",Setanta Sports 1
+https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 tvg-id="SetantaSports2.ru" tvg-logo="https://i.imgur.com/NOBACb6.png" group-title="Sports",Setanta Sports 2
+https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="Sports",Astrahan.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="Sports",Boks TV
+http://moobl.ru/hls/Boks_tv.m3u8
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/512px-Extreme_Sports_Channel.svg.png" group-title="Sports",Extreme Sports Channel
+http://moobl.ru/hls/Extreme_sports.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Sports",MMA-TV.com
+https://tbs01-edge11.itdc.ge/m1/index.m3u8
+#EXTINF:-1 tvg-id="MirBasketbola.ru" tvg-logo="https://i.imgur.com/Tn6M609.png" group-title="Sports",Mir Basketbola
+http://moobl.ru/hls/Mir_basketbola.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-logo="https://i.imgur.com/VBqVkno.png" group-title="Sports",Start
+http://moobl.ru/hls/Start.m3u8
+#EXTINF:-1 tvg-id="StartTriumf.ru" tvg-logo="https://i.imgur.com/L9jTieL.png" group-title="Sports",Start Triumf
+http://moobl.ru/hls/Start_Triumf_FHD.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Sports",viju+ Sport
+http://europe3.livetv.az/russia/viasat_sport/playlist.m3u8
+#EXTINF:-1 tvg-id="GlazamiTurista.ru" tvg-logo="https://i.imgur.com/GXJKWdy.png" group-title="Travel",Glazami Turista
+https://ucdn.beetv.kz/btv/live/hls/000001414.m3u8
+#EXTINF:-1 tvg-id="NashaSibir.ru" tvg-logo="https://i.imgur.com/uXOz2d9.png" group-title="Travel",Nasha Sibir
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la!
+http://31.148.48.15/O-la-la/index.m3u8
