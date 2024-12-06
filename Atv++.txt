@@ -191,7 +191,7 @@ http://stream.tvcdn.net/belgesel/koy-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="Belgesel",Toprak TV
 http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",Minika çocuk
-http://trn10.tulix.tv/gt-minikacocuk/index.m3u8
+https://cdn403.canlitv.vin/minikacocuk.m3u8?tkn=MrImRASZNS3CSeOJnkdkHA&tms=1733508797&hst=www.canlitv.vin&ip=188.253.213.210
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/MinikaGO_Logo.png" group-title="Kids",Minika Go
 https://cdn404.canlitv.vin/minikago.m3u8?tkn=6RBvqi5oDXzfh7TMFbUQ1w&tms=1733501539&hst=www.canlitv.vin&ip=188.253.213.210
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Ã‡ocuk&EÄŸitim",TRT Çocuk HD
