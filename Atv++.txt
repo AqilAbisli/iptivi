@@ -213,7 +213,7 @@ http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Star TV"tvg-id="StarTV.tr"tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png"group-title="ULUSAL",Star TV
 https://cdn403.canlitv.me/startv.m3u8?tkn=KZcYUahkqh0b_TvQQSfuYw&tms=1733505523&hst=www.canlitv.me&ip=188.253.213.210
 #EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Atv_logo_2010.svg"group-title="ULUSAL",ATV
-https://cdn402.canlitv.me/atv.m3u8?tkn=hMO1PXplCH33Bf25SIYDbg&tms=1733505471&hst=www.canlitv.me&ip=188.253.222.82
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr"tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png"group-title="ULUSAL",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_360p.m3u8
 #EXTINF:-1 tvg-name="Show TV"tvg-id="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png"group-title="ULUSAL",Show TV
