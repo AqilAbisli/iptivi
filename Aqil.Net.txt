@@ -30,6 +30,8 @@ http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8#EXTM3U
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="Türk",ATV türkiye HD
 http://stream.tvcdn.net/ulusal/atv.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="Türk",ATV türkiye
+https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=1kzKT24Dn_6f_5QE3RTAWg&e=1736915357
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://antifriz.tv/storage/images/channel_logos/kanald-hd-tr.png" group-title="Türk",KANAL D HD
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Türk",STAR TV HD
