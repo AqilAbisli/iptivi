@@ -29,7 +29,7 @@ http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8#EXTM3U
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Türk",TRT 1 HD
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="Türk",ATV türkiye HD
-http://stream.tvcdn.net/ulusal/atv.m3u8
+# ? http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://antifriz.tv/storage/images/channel_logos/kanald-hd-tr.png" group-title="Türk",KANAL D HD
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Türk",STAR TV HD
@@ -43,7 +43,7 @@ http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://antifriz.tv/storage/images/channel_logos/tv8-hd-tr.png" group-title"Türk",TV8 HD
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Türk",NOW HD
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=vTcAXB7sccg3S3KFAMHJoA&e=1736188334
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Türk",360 HD
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Türk",TV 100 HD
@@ -140,63 +140,29 @@ http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Cocuk",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru",RT Documentary Russian
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.skynetconnect.online/live/554.m3u8
 #EXTINF:-1 tvg-id="RTDocumentaryRussian.ru",RT Documentary Russian HD
 https://streaming.televizor-24-tochka.ru/live/554.m3u8
-#EXTINF:-1 tvg-id="Domkino.ru",Дом Кино
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/44.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru",Дом Кино HD
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
-#EXTINF:-1 tvg-id="Zvezda.ru",Звезда
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/748.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru",Звезда HD
 https://streaming.televizor-24-tochka.ru/live/748.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru",Карусель
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/232.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru",Карусель HD
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru",МузТВ
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/618.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru",МузТВ HD
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
-#EXTINF:-1 tvg-id="NTVMir.ru",НТВ Мир
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/213.m3u8
-#EXTINF:-1 tvg-id="NTVMir.ru",НТВ Мир hD
+#EXTINF:-1 tvg-id="NTVMir.ru",НТВ Мир HD
 https://streaming.televizor-24-tochka.ru/live/213.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/210.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал hD
+#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал HD
 https://streaming.televizor-24-tochka.ru/live/210.m3u8
-#EXTINF:-1 tvg-id="Pobeda.ru",Победа
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/43.m3u8
 #EXTINF:-1 tvg-id="Pobeda.ru",Победа HD
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru",Россия 24
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/30.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru",Россия 24 HD 
 https://streaming.televizor-24-tochka.ru/live/30.m3u8
-#EXTINF:-1 tvg-id="",Россия РТР
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/211.m3u8
 #EXTINF:-1 tvg-id="",Россия РТР HD 
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
-#EXTINF:-1 tvg-id="STS.ru",СТС
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/296.m3u8
 #EXTINF:-1 tvg-id="STS.ru",СТС HD
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
-#EXTINF:-1 tvg-id="TNT.ru",ТНТ
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.skynetconnect.online/live/38.m3u8
 #EXTINF:-1 tvg-id="TNT.ru",ТНТ HD
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
