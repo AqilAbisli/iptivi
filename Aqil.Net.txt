@@ -43,7 +43,7 @@ http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://antifriz.tv/storage/images/channel_logos/tv8-hd-tr.png" group-title"Türk",TV8 HD
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Türk",NOW HD
-https://c.fulltvizle.com/fox/index.m3u8
+https://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Türk",360 HD
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Türk",TV 100 HD
