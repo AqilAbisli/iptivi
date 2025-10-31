@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT1 HD
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV HD
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D HD
@@ -93,6 +93,7 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Dream Turk" tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="MUZIK",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
 
 
 
