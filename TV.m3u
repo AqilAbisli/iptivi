@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:0,TRT 1
+#EXTVLCOPT:network-caching=1000
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+
+#EXTINF:0,ATV
+#EXTVLCOPT:network-caching=1000
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+
+#EXTINF:0,Kanal D
+#EXTVLCOPT:network-caching=1000
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
+#EXTINF:0,Star TV
+#EXTVLCOPT:network-caching=1000
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+
+#EXTINF:0,Show TV
+#EXTVLCOPT:network-caching=1000
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+
+#EXTINF:0,Beyaz TV
+#EXTVLCOPT:network-caching=1000
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:0,Kanal 7
+#EXTVLCOPT:network-caching=1000
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:0,TV8
+#EXTVLCOPT:network-caching=1000
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+
+#EXTINF:0,Now TV
+#EXTVLCOPT:network-caching=1000
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:0,TRT Haber
+#EXTVLCOPT:network-caching=1000
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:0,A Haber
+#EXTVLCOPT:network-caching=1000
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+
+#EXTINF:0,A2 TV
+#EXTVLCOPT:network-caching=1000
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+#EXTINF:0,TV8.5
+#EXTVLCOPT:network-caching=1000
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+
+#EXTINF:0,TRT Çocuk
+#EXTVLCOPT:network-caching=1000
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:0,teve2
+#EXTVLCOPT:network-caching=1000
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+
+#EXTINF:0,NTV
+#EXTVLCOPT:network-caching=1000
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+
+
+#EXTINF:0,Ulke TV
+#EXTVLCOPT:network-caching=1000
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+
+#EXTINF:0,TRT Turk
+#EXTVLCOPT:network-caching=1000
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:0,A Spor
+#EXTVLCOPT:network-caching=1000
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+
+#EXTINF:0,Minika Cocuk
+#EXTVLCOPT:network-caching=1000
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+
+#EXTINF:0,Minika Go
+#EXTVLCOPT:network-caching=1000
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
