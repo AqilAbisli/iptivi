@@ -137,6 +137,7 @@ https:\\0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com\v1\
 #EXTINF:0,Red Bull TV UK
 #EXTVLCOPT:network-caching=1000
 https:\\1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com\v1\master\ba62fe743df0fe93366eba3a257d792884136c7f\LINEAR-932-WORBUKENFAST-WHALETVPLUS\932\whaletvplus\hls\master\playlist.m3u8
+
 #EXTINF:0,Fuel TV
 #EXTVLCOPT:network-caching=1000
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
