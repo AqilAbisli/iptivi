@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:0,Red Bull TV
+
+#EXTINF:0,TRT 1
 #EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 #EXTINF:0,ATV
 #EXTVLCOPT:network-caching=1000
@@ -38,10 +39,6 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:0,TRT Haber
 #EXTVLCOPT:network-caching=1000
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-#EXTINF:0,TRT 1
-#EXTVLCOPT:network-caching=1000
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 #EXTINF:0,A Haber
 #EXTVLCOPT:network-caching=1000
@@ -160,6 +157,10 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,Дom Kинo
 #EXTVLCOPT:network-caching=1000
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Red Bull TV
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:0,Fuel TV
 #EXTVLCOPT:network-caching=1000
