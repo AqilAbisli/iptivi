@@ -86,10 +86,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 #EXTVLCOPT:network-caching=1000
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
-#EXTINF:0,Первый канал
-#EXTVLCOPT:network-caching=1000
-https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-
 #EXTINF:0,Россия 1
 #EXTVLCOPT:network-caching=1000
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
@@ -98,41 +94,17 @@ https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTVLCOPT:network-caching=1000
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
 
-#EXTINF:0,ТНТ
-#EXTVLCOPT:network-caching=1000
-http://31.148.48.15/TNT/index.m3u8
-
-#EXTINF:0,СТС
-#EXTVLCOPT:network-caching=1000
-http://94.230.128.107:8080/CTC/index.m3u8
-
-#EXTINF:0,Рен ТВ
-#EXTVLCOPT:network-caching=1000
-http://94.230.128.107:8080/PEH_TB/index.m3u8
-
 #EXTINF:0,Пятница
 #EXTVLCOPT:network-caching=1000
 https://vod.tuva.ru/friday/index.m3u8
-
-#EXTINF:0,Дyma TB
-#EXTVLCOPT:network-caching=1000
-https://dumatv.iptv2022.com/playlist.m3u8
 
 #EXTINF:0,Россия 24
 #EXTVLCOPT:network-caching=1000
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,Россия К
-#EXTVLCOPT:network-caching=1000
-https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
-
 #EXTINF:0,ТВ Центр
 #EXTVLCOPT:network-caching=1000
 http://hls127.freeott.top:8080/Tv_Center/video.m3u8
-
-#EXTINF:0,РТР Планета
-#EXTVLCOPT:network-caching=1000
-https://stream.smotrim.ru/hls2/planeta_rtr_sng/playlist_4.m3u8
 
 #EXTINF:0,Матур ТВ
 #EXTVLCOPT:network-caching=1000#EXTVLCOPT:network-caching=1000
@@ -141,10 +113,6 @@ https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:0,Rodnoe Kino
 #EXTVLCOPT:network-caching=1000
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,ТНТ4
-#EXTVLCOPT:network-caching=1000
-http://31.148.48.15/TNT4/index.m3u8
 
 #EXTINF:0,Мир
 #EXTVLCOPT:network-caching=1000
@@ -162,6 +130,14 @@ https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:0,Red Bull TV US
+#EXTVLCOPT:network-caching=1000
+https:\\0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com\v1\master\ba62fe743df0fe93366eba3a257d792884136c7f\LINEAR-644-WORBUSENFAST-LG_US\644\lgtv\hls\master\playlist.m3u8
+
+#EXTINF:0,Red Bull TV
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 #EXTINF:0,Fuel TV
 #EXTVLCOPT:network-caching=1000
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
@@ -169,3 +145,4 @@ https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fuel
 #EXTINF:0,MotoGP Channel
 #EXTVLCOPT:network-caching=1000
 https://d1kqz1q7knpsue.cloudfront.net/MotoGP.m3u8
+
