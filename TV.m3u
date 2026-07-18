@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,TRT 1
+#EXTINF:0,Red Bull TV
 #EXTVLCOPT:network-caching=1000
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 
 #EXTINF:0,ATV
 #EXTVLCOPT:network-caching=1000
@@ -39,6 +39,10 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTVLCOPT:network-caching=1000
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
+#EXTINF:0,TRT 1
+#EXTVLCOPT:network-caching=1000
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+
 #EXTINF:0,A Haber
 #EXTVLCOPT:network-caching=1000
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
@@ -62,7 +66,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:0,NTV
 #EXTVLCOPT:network-caching=1000
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-
 
 #EXTINF:0,Ulke TV
 #EXTVLCOPT:network-caching=1000
